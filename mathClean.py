@@ -78,13 +78,6 @@ def mathCleaner(inFileName,outFileName):
 
         outFile.write(line)
 
-# Take a begining string and ending string and delete them
-def it(strBeg,strEnd, str):
-    begIndex = str.find(strBeg)
-    endIndex = str.find(strEnd)
-    finalString = str[:begIndex - 1] + str[begIndex + len(strBeg) : endIndex] + str[endIndex + len(strEnd) :]
-    return finalString 
-    
 
 for filename in dir_list:
     inFileName = ".//textFiles//" + filename
