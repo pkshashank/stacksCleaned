@@ -1,0 +1,91 @@
+LEMMA	  There exists an inverse system of quasi-compact topological spaces over MATH whose limit is not quasi-compact.  
+LEMMA	  There exists a local ring MATH and a maximal ideal MATH such that the completion MATH of MATH with respect to MATH has the following properties <CASES> CASE: MATH is local, but its maximal ideal is not equal to MATH, CASE: MATH is not a complete local ring, and CASE: MATH is not MATH-adically complete as an MATH-module. </CASES>  
+LEMMA	  There exists a ring MATH complete with respect to a principal ideal MATH and a principal ideal MATH such that MATH is not MATH-adically complete.  
+LEMMA	  [ Completion is neither left nor right exact in general. ] Completion is not an exact functor in general; it is not even right exact in general. This holds even when MATH is finitely generated on the category of finitely presented modules.  
+LEMMA	  Let MATH be a ring and let MATH be a finitely generated ideal. The category of MATH-adically complete MATH-modules has kernels and cokernels but is not abelian in general.  
+LEMMA	  Let MATH be a ring and let MATH be an ideal. The category MATH of derived complete modules is abelian and the inclusion functor MATH is exact and commutes with arbitrary limits. If MATH is finitely generated, then MATH has arbitrary direct sums and colimits, but MATH does not commute with these in general. Finally, filtered colimits are not exact in MATH in general, hence MATH is not a Grothendieck abelian category.  
+LEMMA	  Let MATH be a ring. Let MATH be an MATH-module which is countable. Then MATH is a finite MATH-module if and only if MATH is surjective.  
+LEMMA	  Let MATH be a countable ring. Let MATH be a countable MATH-module. Then MATH is finitely presented if and only if the canonical map MATH is an isomorphism.  
+LEMMA	  Let MATH be a countable ring. Then MATH is coherent if and only if MATH is a flat MATH-module.  
+LEMMA	  There exists a ring such that the completion MATH of MATH at MATH is not flat over MATH and a fortiori not flat over MATH.  
+LEMMA	  Let MATH be a domain with fraction field MATH. If MATH is flat over MATH, then MATH is normal if and only if MATH is completely normal (Algebra, Definition REF).  
+LEMMA	  If MATH is a valuation ring of dimension MATH, then MATH is flat over MATH but not flat over MATH.  
+LEMMA	  There exists a ring MATH complete with respect to a principal ideal MATH and an element MATH such that the MATH-adic completion MATH of MATH is not flat over MATH.  
+LEMMA	  The category of quasi-coherent modules on a formal algebraic space MATH is not abelian in general, even if MATH is a Noetherian affine formal algebraic space.  
+LEMMA	  There exists a ring MATH and a nonsplit sequence of modules which becomes split Zariski locally.  
+LEMMA	  There exists a local ring MATH and a regular sequence MATH (in the maximal ideal) such that there exists a nonzero element MATH with MATH.  
+LEMMA	  There exists a local homomorphism of local rings MATH and a regular sequence MATH in the maximal ideal of MATH such that MATH is flat over MATH, but such that the images MATH of MATH in MATH do not form a regular sequence, nor even a Koszul-regular sequence.  
+LEMMA	  There exists a local Noetherian MATH-dimensional domain MATH complete with respect to a principal ideal MATH and an element MATH, MATH such that the MATH-adic completion MATH of the principal localization MATH is nonreduced and even such that MATH is nonreduced.  
+LEMMA	  There exists a Jacobson, universally catenary, Noetherian domain MATH with maximal ideals MATH such that MATH and MATH.  
+LEMMA	  Let MATH be a field. There exists a variety MATH whose normalization is quasi-affine but which is itself not quasi-affine.  
+LEMMA	  There exists a morphism MATH of finite presentation between affine schemes and a locally closed subset MATH of MATH such that MATH is not a finite union of locally closed subsets of MATH.  
+LEMMA	  Nonexistence quasi-compact opens of affines: <CASES> CASE: There exist an affine scheme MATH and affine open MATH such that there is no quasi-compact open MATH with MATH and MATH dense in MATH. CASE: There exists an affine scheme MATH and a closed point MATH such that MATH does not contain a quasi-compact dense open. </CASES>  
+LEMMA	  There exists a quasi-compact and quasi-separated scheme MATH which does not contain a separated quasi-compact dense open.  
+LEMMA	  There exists a quasi-compact and quasi-separated algebraic space which does not contain a quasi-compact dense open subscheme.  
+LEMMA	  There exists a finite type morphism of algebraic spaces MATH with MATH affine and MATH quasi-separated, such that there does not exist an immersion MATH over MATH.  
+LEMMA	  Schemes, Lemma REF is sharp in the sense that one can neither drop the assumption of quasi-compactness nor the assumption of quasi-separatedness.  
+LEMMA	  There exists a domain MATH and a nonzero ideal MATH such that MATH is a principal ideal for all primes MATH but MATH is not an invertible MATH-module.  
+LEMMA	  Strange flat modules. <CASES> CASE: There exists a ring MATH and a finite flat MATH-module MATH which is not projective. CASE: There exists a closed immersion which is flat but not open. </CASES>  
+LEMMA	  Let MATH be a ring. Let MATH be an ideal generated by a countable collection of idempotents. Then MATH is projective as an MATH-module.  
+LEMMA	  There exists a ring MATH and an ideal MATH such that MATH is projective as an MATH-module but not locally free as an MATH-module.  
+LEMMA	  Let MATH be a field. Let MATH, MATH be smooth, projective, geometrically irreducible curves over MATH. Let MATH be a rational point and let MATH be a point such that MATH. Then MATH is nonzero in MATH where MATH.  
+LEMMA	  There exists a countable ring MATH and a projective module MATH which is a direct sum of countably many locally free rank MATH modules such that MATH is not locally free.  
+LEMMA	  [ Zero dimensional ring with flat ideal. ] There exists a local ring MATH with a unique prime ideal and a nonzero ideal MATH which is a flat MATH-module  
+LEMMA	  There exists an epimorphism of local rings of dimension MATH which is not a surjection.  
+LEMMA	  There exists a local ring MATH, a finite type ring map MATH and a prime MATH lying over MATH such that MATH is flat over MATH, and for any element MATH, MATH the ring MATH is neither finitely presented over MATH nor flat over MATH.  
+LEMMA	  There exist examples of <CASES> CASE: a flat finite type ring map with geometrically irreducible complete intersection fibre rings which is not of finite presentation, CASE: a flat finite type ring map with geometrically connected, geometrically reduced, dimension 1, complete intersection fibre rings which is not of finite presentation, CASE: a proper flat morphism of schemes MATH each of whose fibres is isomorphic to either MATH or to the vanishing locus of MATH in MATH which is not of finite presentation, and CASE: a proper flat morphism of schemes MATH each of whose fibres is isomorphic to either MATH or MATH which is not of finite presentation. </CASES>  
+LEMMA	  There exists a local homomorphism MATH of local domains which is essentially of finite type and such that MATH is finite such that for every prime MATH of MATH the ring map MATH is not the localization of a quasi-finite ring map.  
+LEMMA	  There exists a morphism of affine schemes of finite presentation MATH and an MATH-module MATH of finite presentation such that MATH is pure relative to MATH, but not universally pure relative to MATH.  
+LEMMA	  There exists a formally smooth ring map which is not flat.  
+LEMMA	  There exist formally etale nonflat ring maps.  
+LEMMA	  There exists a formally etale surjective ring map MATH with MATH not equal to zero.  
+LEMMA	  Let MATH be the polynomial ring in one variable over MATH. Let MATH  denote the perfect closure of MATH. Then MATH is flat and formally unramified, but not formally etale.  
+LEMMA	  Let MATH be a Noetherian local ring of prime characteristic MATH such that MATH. Then the  canonical map  MATH to the completion of MATH is flat and formally unramified. However, if MATH is regular but not excellent, then this map is not formally etale.  
+LEMMA	  Let MATH be a regular local ring of characteristic MATH. Suppose MATH. Then MATH is excellent if and only if MATH is formally etale.  
+LEMMA	  There exists an affine scheme MATH and a closed subscheme MATH such that MATH is Zariski locally on MATH cut out by ideals generated by idempotents, but MATH is not cut out by an ideal generated by idempotents.  
+LEMMA	  There is a ring map MATH which identifies local rings but which is not ind-etale. A fortiori it is not ind-Zariski.  
+LEMMA	  There exists an affine scheme MATH and an injective MATH-module MATH such that MATH is not a flasque sheaf on MATH. Even the restriction MATH with MATH a standard open need not be surjective.  
+LEMMA	  There exists an affine scheme MATH whose underlying topological space is Noetherian and an injective MATH-module MATH such that MATH has nonvanishing MATH on some quasi-compact open MATH of MATH.  
+LEMMA	  There exists a flat group scheme of finite type over the affine line which is not separated.  
+LEMMA	  There exists a flat group scheme of finite type over the infinite dimensional affine space which is not quasi-separated.  
+LEMMA	  There exists a group scheme MATH over a base MATH whose identity component is flat over MATH but which is not flat over MATH.  
+LEMMA	  There exists a group algebraic space of finite type over a field which is not separated (and not even quasi-separated or locally separated).  
+LEMMA	  There exists an etale morphism of algebraic spaces MATH and a nontrivial specialization of points MATH in MATH with MATH in MATH.  
+LEMMA	  Let MATH be a scheme. Let MATH be a group scheme over MATH. The stack MATH classifying principal homogeneous MATH-spaces (see Examples of Stacks, Subsection REF) and the stack MATH classifying fppf MATH-torsors (see Examples of Stacks, Subsection REF) are not equivalent in general.  
+LEMMA	  Let MATH be a field. Let MATH be an affine group scheme over MATH. If the stack MATH has a smooth covering by a scheme, then MATH is of finite type over MATH.  
+LEMMA	  Let MATH be a nonempty scheme. There exists a stack in groupoids MATH such that MATH is limit preserving on objects, but MATH is not limit preserving.  
+LEMMA	  There exists a functor MATH which satisfies the sheaf condition for the fpqc topology, has representable diagonal MATH, and such that there exists a surjective, flat, universally open, quasi-compact morphism MATH where MATH is a scheme, but such that MATH is not an algebraic space.  
+LEMMA	  There exists a sheaf of abelian groups MATH on MATH with the following properties <CASES> CASE: MATH whenever MATH, CASE: MATH is not zero if MATH, and CASE: if MATH is a thickening, then MATH. </CASES>  
+LEMMA	  There exists a sheaf of abelian groups MATH on MATH with the following properties <CASES> CASE: MATH whenever MATH is a field, CASE: MATH is limit preserving, CASE: if MATH is a thickening, then MATH, and CASE: MATH is not zero. </CASES>  
+LEMMA	  The lisse-etale site is not functorial, even for morphisms of schemes.  
+LEMMA	  With MATH the inclusion functor MATH does not define a morphism of sites.  
+LEMMA	  Let MATH be an algebraic stack. Let MATH be an object of MATH whose cohomology sheaves are locally quasi-coherent (Sheaves on Stacks, Definition REF) and satisfy the flat base change property (Cohomology of Stacks, Definition REF). Then there exists a distinguished triangle MATH in MATH. In other words, MATH is the derived limit of its canonical truncations.  
+LEMMA	  Let MATH be an algebraic stack. If MATH is a collection of locally quasi-coherent sheaves with the flat base change property on MATH, then MATH is an isomorphism in MATH.  
+LEMMA	  A quasi-compact and quasi-separated morphism MATH of algebraic stacks need not induce a functor MATH.  
+LEMMA	  There exists a ``big'' abelian category MATH whose MATH-groups are proper classes.  
+LEMMA	  There exists a reduced scheme MATH and a schematically dense open MATH such that some weakly associated point MATH is not in MATH.  
+LEMMA	  There exists a ring MATH, a distinguished triangle MATH in the homotopy category MATH, and an endomorphism MATH of this distinguished triangle, such that MATH, MATH, MATH are perfect complexes and MATH.  
+LEMMA	  The properties <CASES> CASE: MATH``MATH is projective'', and CASE: MATH``MATH is quasi-projective'' </CASES> are not Zariski local on the base. A fortiori, they are not fpqc local on the base.  
+LEMMA	  There is an etale covering MATH of schemes and a descent datum MATH relative to MATH such that  MATH is projective, but the descent datum is not effective in the category of schemes.  
+LEMMA	  There exists a field MATH and a family of curves MATH such that MATH is not a scheme.  
+LEMMA	  Let MATH and MATH be ring maps. In general there does not exist a functor MATH of triangulated categories such that an MATH-module MATH gives an object MATH of MATH which maps to MATH under the map MATH.  
+LEMMA	  There exists a differential graded algebra MATH and a compact object MATH of MATH such that MATH cannot be represented by a finite and graded projective differential graded MATH-module.  
+LEMMA	  The stack in groupoids MATH whose category of sections over a scheme MATH is the category of flat, proper, finitely presented algebraic spaces over MATH (see Quot, Section REF) is not an algebraic stack.  
+LEMMA	  Let MATH be a two dimensional regular integral Noetherian scheme with function field MATH. Let MATH be an abelian scheme. Then the map MATH is injective.  
+LEMMA	  Let MATH be a smooth commutative group algebraic space over a field MATH. Then MATH is torsion.  
+LEMMA	  The canonical map MATH is not essentially surjective.  
+PROPN	  The stack MATH is not algebraic.  
+LEMMA	  Let MATH be an algebraically closed field which is not the closure of a finite field. Let MATH be an abelian variety over MATH. Let MATH. There exists an inverse system of MATH-algebras MATH with surjective transition maps whose kernels are locally nilpotent and a system MATH of MATH lying over the system MATH such that this system is not effective in the sense of Artin's Axioms, Remark REF.  
+LEMMA	  Counter examples to algebraization of coherent sheaves. <CASES> CASE: Grothendieck's existence theorem as stated in Cohomology of Schemes, Theorem REF is false if we drop the assumption that MATH is separated. CASE: The stack of coherent sheaves MATH of Quot, Theorems REF and REF is in general not algebraic if we drop the assumption that MATH is separated CASE: The functor MATH of Quot, Proposition REF is not an algebraic space in general if we drop the assumption that MATH is separated. </CASES>  
+LEMMA	  There exists an affine formal algebraic space which is not McQuillan.  
+LEMMA	  There exists an affine formal algebraic space MATH whose regular functions do not separate points, in the following sense: If we write MATH as in Formal Spaces, Definition REF then MATH is a field, but MATH has infinitely many points.  
+LEMMA	  There exists a representable morphism MATH of affine formal algebraic spaces with MATH McQuillan, but MATH not McQuillan.  
+LEMMA	  There exists a commutative ring MATH and a flat MATH-algebra MATH which cannot be written as a filtered colimit of finitely presented flat MATH-algebras. In fact, we may either choose MATH to be a finite type MATH-algebra or a MATH-dimensional Noetherian local ring with residue field of characteristic MATH.  
+PROPN	  Let MATH be a ring. Let MATH be a multiplicative subset of MATH. Let MATH denote the category of MATH-modules and MATH its Serre subcategory of modules for which any element is annihilated by some element of MATH. Then there is a canonical equivalence MATH.  
+PROPN	  Let MATH be a ring. Let MATH denote its total quotient ring (as in Algebra, Example REF). Let MATH denote the category of MATH-modules and MATH its Serre subcategory of torsion modules. Let MATH denote the category of MATH-modules. Then there is a canonical equivalence MATH.  
+PROPN	  Let MATH be a Noetherian integral domain. Let MATH denote its field of fractions. Let MATH denote the category of finitely generated MATH-modules and MATH its Serre subcategory of finitely generated torsion modules. Then MATH is canonically equivalent to the category of finite dimensional MATH-vector spaces.  
+PROPN	  The quotient of the category of abelian groups modulo its Serre subcategory of torsion groups is the category of MATH-vector spaces.  
+LEMMA	  There exists a system MATH of (abelian) topological groups such that MATH taken in the category of topological spaces is different from MATH taken in the category of topological groups.  
+LEMMA	  There exists a morphism MATH of affine schemes which is universally submersive such that MATH is not a V covering.  
+LEMMA	  There exists a ring MATH and an infinite family of flat ring maps MATH such that for every MATH-module MATH  MATH but there is no finite subfamily where the same thing is true.  
+LEMMA	  The scheme MATH is not quasi-compact in the canonical topology on the category of schemes.  

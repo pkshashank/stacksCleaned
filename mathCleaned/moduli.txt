@@ -1,0 +1,48 @@
+LEMMA	  The diagonal of MATH over MATH is affine and of finite presentation.  
+LEMMA	  The morphism MATH is quasi-separated and locally of finite presentation.  
+LEMMA	  Assume MATH is proper as well as of finite presentation. Then MATH satisfies the existence part of the valuative criterion (Morphisms of Stacks, Definition REF).  
+LEMMA	  Let MATH be an algebraic space. Let MATH be a quasi-finite morphism of algebraic spaces which are separated and of finite presentation over MATH. Then MATH induces a morphism MATH.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be an open immersion of algebraic spaces which are separated and of finite presentation over MATH. Then the morphism MATH of Lemma REF is an open immersion.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be a closed immersion of algebraic spaces which are separated and of finite presentation over MATH. Then the morphism MATH of Lemma REF is a closed immersion.  
+LEMMA	  In Situation REF the stack MATH is algebraic and MATH is a flat closed immersion. If MATH is finite or MATH is locally Noetherian, then MATH is an open and closed substack of MATH.  
+LEMMA	  Let MATH be as in the introduction to this section. Let MATH be perfect. Let MATH and consider the map MATH Let MATH be a map. Then MATH as defined in Situation REF is an open and closed substack.  
+LEMMA	  The diagonal of MATH is a closed immersion. If MATH is of finite type, then the diagonal is a closed immersion of finite presentation.  
+LEMMA	  The morphism MATH is separated. If MATH is of finite presentation, then it is also locally of finite presentation.  
+LEMMA	  Assume MATH is proper as well as of finite presentation and MATH quasi-coherent of finite type. Then MATH satisfies the existence part of the valuative criterion (Morphisms of Spaces, Definition REF).  
+LEMMA	  Let MATH be an algebraic space. Let MATH be an affine quasi-finite morphism of algebraic spaces which are separated and of finite presentation over MATH. Let MATH be a quasi-coherent MATH-module. Then MATH induces a morphism MATH.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be an affine open immersion of algebraic spaces which are separated and of finite presentation over MATH. Let MATH be a quasi-coherent MATH-module. Then the morphism MATH of Lemma REF is an open immersion.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be an open immersion of algebraic spaces which are separated and of finite presentation over MATH. Let MATH be a quasi-coherent MATH-module and set MATH. Then there is an open immersion MATH of algebraic spaces over MATH.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be a closed immersion of algebraic spaces which are separated and of finite presentation over MATH. Let MATH be a quasi-coherent MATH-module. Then the morphism MATH of Lemma REF is an isomorphism.  
+LEMMA	  Let MATH be as in the introduction to this section. Let MATH be a surjection of quasi-coherent MATH-modules. Then there is a canonical closed immersion MATH.  
+LEMMA	  Let MATH and MATH be as in the introduction to this section. Let MATH be an invertible MATH-module. Then tensoring with MATH defines an isomorphism MATH Given a numerical polynomial MATH, then setting MATH this map induces an isomorphism MATH of open and closed substacks.  
+LEMMA	  Let MATH and MATH be as in the introduction to this section. Let MATH be an invertible MATH-module. Then MATH where MATH.  
+LEMMA	  Let MATH, MATH, MATH. The algebraic space MATH parametrizing quotients of MATH with Hilbert polynomial MATH is proper over MATH.  
+LEMMA	  Let MATH be an algebraic space. Let MATH. Let MATH be the pullback of MATH to MATH. Let MATH be an MATH-module of finite presentation. The algebraic space MATH parametrizing quotients of MATH having Hilbert polynomial MATH with respect to MATH is proper over MATH.  
+LEMMA	  Let MATH be a proper morphism of finite presentation of algebraic spaces. Let MATH be a finitely presented MATH-module. Let MATH be an invertible MATH-module ample on MATH, see Divisors on Spaces, Definition REF. The algebraic space MATH parametrizing quotients of MATH having Hilbert polynomial MATH with respect to MATH is proper over MATH.  
+LEMMA	  Let MATH be a separated morphism of finite presentation of algebraic spaces. Let MATH be a finitely presented MATH-module. Let MATH be an invertible MATH-module ample on MATH, see Divisors on Spaces, Definition REF. The algebraic space MATH parametrizing quotients of MATH having Hilbert polynomial MATH with respect to MATH is separated of finite presentation over MATH.  
+LEMMA	  The diagonal of MATH is a closed immersion of finite presentation.  
+LEMMA	  The morphism MATH is separated and locally of finite presentation.  
+LEMMA	  Assume MATH is proper as well as of finite presentation. Then MATH satisfies the existence part of the valuative criterion (Morphisms of Spaces, Definition REF).  
+LEMMA	  Let MATH be an algebraic space. Let MATH be an open immersion of algebraic spaces which are separated and of finite presentation over MATH. Then MATH induces an open immersion MATH.  
+LEMMA	  Let MATH be an algebraic space. Let MATH be a closed immersion of algebraic spaces which are separated and of finite presentation over MATH. Then MATH induces a closed immersion MATH.  
+LEMMA	  Let MATH be a proper morphism of finite presentation of algebraic spaces. Let MATH be an invertible MATH-module ample on MATH, see Divisors on Spaces, Definition REF. The algebraic space MATH parametrizing closed subschemes having Hilbert polynomial MATH with respect to MATH is proper over MATH.  
+LEMMA	  Let MATH be a separated morphism of finite presentation of algebraic spaces. Let MATH be an invertible MATH-module ample on MATH, see Divisors on Spaces, Definition REF. The algebraic space MATH parametrizing closed subschemes having Hilbert polynomial MATH with respect to MATH is separated of finite presentation over MATH.  
+LEMMA	  The diagonal of MATH over MATH is affine and of finite presentation.  
+LEMMA	  The morphism MATH is quasi-separated and locally of finite presentation.  
+LEMMA	  Assume MATH is smooth in addition to being proper. Then MATH satisfies the existence part of the valuative criterion (Morphisms of Stacks, Definition REF).  
+LEMMA	  Assume MATH for all schemes MATH over MATH. Then the inertia stack of MATH is equal to MATH.  
+LEMMA	  Assume MATH has relative dimension MATH in addition to the other assumptions in this section. Then MATH is smooth.  
+LEMMA	  The morphism MATH turns the Picard stack into a gerbe over the Picard functor.  
+LEMMA	  The diagonal of MATH over MATH is a quasi-compact immersion.  
+LEMMA	  The morphism MATH is quasi-separated and locally of finite presentation.  
+LEMMA	  Assume the geometric fibres of MATH are integral in addition to the other assumptions in this section. Then MATH is separated.  
+LEMMA	  Assume MATH has relative dimension MATH in addition to the other assumptions in this section. Then MATH is smooth.  
+LEMMA	  The diagonal of MATH is a closed immersion of finite presentation.  
+LEMMA	  The morphism MATH is separated and locally of finite presentation.  
+LEMMA	  With MATH as in the introduction of this section, in addition assume MATH is proper. Then the subfunctor MATH of isomorphisms is an open subspace.  
+LEMMA	  With MATH as in the introduction of this section, let MATH be ample on MATH and let MATH be ample on MATH. See Divisors on Spaces, Definition REF. Let MATH be a numerical polynomial. Then MATH is separated and of finite presentation where MATH.  
+LEMMA	  The diagonal of MATH is separated and of finite presentation.  
+LEMMA	  The morphism MATH is quasi-separated and locally of finite presentation.  
+LEMMA	  Let MATH be an integer and let MATH be a numerical polynomial. Let MATH be a subset with the following property: for every MATH there exists a field MATH and an object MATH of MATH over MATH representing MATH such that <CASES> CASE: the Hilbert polynomial of MATH on MATH is MATH, and CASE: there exists a closed immersion MATH such that MATH. </CASES> Then MATH is a Noetherian topological space, in particular quasi-compact.  
+LEMMA	  The diagonal of MATH over MATH is affine and of finite presentation.  
+LEMMA	  The morphism MATH is quasi-separated and locally of finite presentation.  

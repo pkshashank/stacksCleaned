@@ -1,0 +1,86 @@
+LEMMA	  In Situation REF the functor MATH  satisfies the sheaf property for the fpqc topology.  
+LEMMA	  In Situation REF. Let MATH be an algebraic space over MATH. We have MATH where MATH denote the pullbacks of MATH and MATH to the algebraic space MATH.  
+LEMMA	  In Situation REF let MATH be an fppf covering and for each MATH let MATH be an fppf covering. Denote MATH, resp.\ MATH the pullback of MATH to MATH, resp.\ MATH. Similarly define MATH and MATH. For every scheme MATH over MATH the diagram MATH presents the first arrow as the equalizer of the other two.  
+LEMMA	  In Situation REF. If MATH is of finite presentation and MATH is quasi-compact and quasi-separated, then MATH is limit preserving.  
+LEMMA	  Let MATH be a scheme. Let MATH be an algebraic space over MATH. Let MATH be a closed immersion of algebraic spaces over MATH. Let MATH be a quasi-coherent MATH-module and let MATH be a quasi-coherent MATH-module. Then MATH as functors on MATH.  
+LEMMA	  Let MATH be a scheme. Let MATH be an algebraic space over MATH. Let MATH be a pseudo-coherent object of MATH. <CASES> CASE: If for all MATH in MATH the cohomology sheaf MATH is zero, then the functor MATH is an algebraic space affine and of finite presentation over MATH. CASE: If for all MATH in MATH the cohomology sheaves MATH are zero for MATH, then MATH is perfect, MATH locally has tor amplitude in MATH, and the functor MATH is an algebraic space affine and of finite presentation over MATH. </CASES>  
+LEMMA	  In Situation REF assume that <CASES> CASE: MATH is a Noetherian algebraic space, CASE: MATH is locally of finite type and quasi-separated, CASE: MATH is a finite type MATH-module, and CASE: MATH is a finite type MATH-module, flat over MATH, with support proper over MATH. </CASES> Then the functor MATH is an algebraic space affine and of finite presentation over MATH.  
+PROPN	  In Situation REF assume that <CASES> CASE: MATH is of finite presentation, and CASE: MATH is a finitely presented MATH-module, flat over MATH, with support proper over MATH. </CASES> Then the functor MATH is an algebraic space affine over MATH. If MATH is of finite presentation, then MATH is of finite presentation over MATH.  
+LEMMA	  In Situation REF the functor MATH  satisfies the sheaf property for the fpqc topology.  
+LEMMA	  In Situation REF. Let MATH be an algebraic space over MATH. We have MATH where MATH denote the pullbacks of MATH and MATH to the algebraic space MATH.  
+PROPN	  In Situation REF assume that <CASES> CASE: MATH is of finite presentation, and CASE: MATH and MATH are finitely presented MATH-modules, flat over MATH, with support proper over MATH. </CASES> Then the functor MATH is an algebraic space affine of finite presentation over MATH.  
+LEMMA	  In Situation REF the functor MATH is fibred in groupoids.  
+LEMMA	  In Situation REF. Denote MATH. Then MATH is representable by algebraic spaces.  
+LEMMA	  In Situation REF the functor MATH is a stack in groupoids.  
+LEMMA	  In Situation REF assume that MATH is locally of finite presentation. Then MATH is limit preserving (Artin's Axioms, Definition REF).  
+LEMMA	  In Situation REF. Let MATH be a pushout in the category of schemes over MATH where MATH is a thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the functor on fibre categories MATH is an equivalence.  
+LEMMA	  Let MATH be a cartesian square of algebraic spaces where MATH is a first order thickening. Let MATH be an MATH-module flat over MATH. Set MATH. The following are equivalent <CASES> CASE: MATH is a quasi-coherent MATH-module of finite presentation, CASE: MATH is an MATH-module of finite presentation, CASE: MATH is a quasi-coherent MATH-module of finite presentation, CASE: MATH is an MATH-module of finite presentation, </CASES>  
+LEMMA	  In Situation REF assume that MATH is a locally Noetherian scheme and MATH is locally of finite presentation. Let MATH be a finite type field over MATH and let MATH be an object of MATH over MATH. Then the spaces MATH and MATH (Artin's Axioms, Section REF) are finite dimensional.  
+LEMMA	  In Situation REF assume that MATH is a locally Noetherian scheme and that MATH is separated. Let MATH. Then the functor Artin's Axioms, Equation (REF) is an equivalence.  
+LEMMA	  In Situation REF assume that MATH is a locally Noetherian scheme, MATH, and MATH is flat. Let MATH. Then we have openness of versality for MATH (see Artin's Axioms, Definition REF).  
+THEOM	[Algebraicity of the stack of coherent sheaves; flat case]  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Assume that MATH is of finite presentation, separated, and flat. Then MATH is an algebraic stack over MATH.  
+THEOM	[Algebraicity of the stack of coherent sheaves; general case]  Let MATH be a scheme. Let MATH be morphism of algebraic spaces over MATH. Assume that MATH is of finite presentation and separated. Then MATH is an algebraic stack over MATH.  
+LEMMA	  In Situation REF. The functors MATH and MATH satisfy the sheaf property for the fpqc topology.  
+LEMMA	  In Situation REF. Let MATH be an algebraic space over MATH. We have MATH where MATH denotes the pullback of MATH to the algebraic space MATH. Similarly, we have MATH  
+LEMMA	  In Situation REF let MATH be an fpqc covering and for each MATH let MATH be an fpqc covering. Denote MATH, resp.\ MATH the pullback of MATH to MATH, resp.\ MATH. For every scheme MATH over MATH the diagram MATH presents the first arrow as the equalizer of the other two. The same is true for the functor MATH.  
+LEMMA	  In Situation REF assume also that (a) MATH is quasi-compact and quasi-separated and (b) MATH is of finite presentation. Then the functor MATH is limit preserving in the following sense: If MATH is a directed limit of affine schemes over MATH, then MATH.  
+LEMMA	  In Situation REF. Let MATH be a pushout in the category of schemes over MATH where MATH is a thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the natural map MATH is bijective. If MATH is locally of finite presentation, then the same thing is true for MATH.  
+LEMMA	  In Situation REF. The functor MATH satisfies the sheaf property for the fpqc topology.  
+LEMMA	  In Situation REF. Let MATH be an algebraic space over MATH. We have MATH where MATH denotes the pullback of MATH to the algebraic space MATH.  
+PROPN	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Let MATH be a quasi-coherent sheaf on MATH. If MATH is of finite presentation and separated, then MATH is an algebraic space. If MATH is of finite presentation, then MATH is locally of finite presentation.  
+LEMMA	  In Situation REF we have MATH.  
+LEMMA	  In Situation REF. Let MATH be an algebraic space over MATH. We have MATH where MATH.  
+PROPN	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. If MATH is of finite presentation and separated, then MATH is an algebraic space locally of finite presentation over MATH.  
+LEMMA	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH which is flat, of finite presentation, and proper. The natural map MATH is representable by open immersions.  
+PROPN	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. If MATH is flat, of finite presentation, and proper, then MATH is an algebraic stack.  
+LEMMA	  In Situation REF the functor MATH is the sheafification of the functor MATH.  
+LEMMA	  In Situation REF. If MATH is an isomorphism for all schemes MATH over MATH, then MATH is an exact sequence for all MATH.  
+LEMMA	  In Situation REF let MATH be a section. Assume that MATH is an isomorphism for all MATH over MATH. Then MATH is a split exact sequence with splitting given by MATH.  
+LEMMA	  In Situation REF let MATH be a section. Then MATH as defined above is a stack in groupoids over MATH.  
+LEMMA	  In Situation REF let MATH be a section. The morphism MATH is representable, surjective, and smooth.  
+LEMMA	  In Situation REF let MATH be a section. If MATH is an isomorphism for all MATH over MATH, then MATH is fibred in setoids with set of isomorphism classes over MATH given by MATH  
+PROPN	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Assume that <CASES> CASE: MATH is flat, of finite presentation, and proper, and CASE: MATH is an isomorphism for all schemes MATH over MATH. </CASES> Then MATH is an algebraic space.  
+LEMMA	  With assumptions and notation as in Proposition REF. Then the diagonal MATH is representable by immersions. In other words, MATH is locally separated.  
+LEMMA	  Let MATH be a scheme. Consider morphisms of algebraic spaces MATH and MATH over MATH. If MATH is separated and MATH is of finite presentation, flat, and proper, then there is a natural injective transformation of functors MATH which maps a morphism MATH to its graph.  
+LEMMA	  Assumption and notation as in Lemma REF. The transformation MATH is representable by open immersions.  
+PROPN	  Let MATH be a scheme. Let MATH and MATH be morphisms of algebraic spaces over MATH. Assume MATH is of finite presentation and separated and MATH is of finite presentation, flat, and proper. Then MATH is an algebraic space locally of finite presentation over MATH.  
+LEMMA	  The category MATH is fibred in groupoids over MATH. The same is true for MATH.  
+LEMMA	  The diagonal MATH is representable by algebraic spaces.  
+LEMMA	  The category MATH is a stack in groupoids over MATH. The same is true for MATH.  
+LEMMA	  Let MATH be an algebraic space over MATH. Let MATH denote the corresponding algebraic stack (Algebraic Stacks, Sections REF, REF, and REF). We have an equivalence of categories MATH and an equivalence of categories MATH  
+LEMMA	  The stack MATH is limit preserving (Artin's Axioms, Definition REF).  
+LEMMA	  Let MATH be a pushout in the category of schemes where MATH is a thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the functor on fibre categories MATH is an equivalence.  
+LEMMA	  Let MATH be a field and let MATH be an object of MATH over MATH. <CASES> CASE: If MATH is of finite type over MATH, then the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional, and CASE: in general the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional. </CASES>  
+LEMMA	  The stack in groupoids MATH satisfies openness of versality over MATH. Similarly, after base change (Remark REF) openness of versality holds over any Noetherian base scheme MATH.  
+LEMMA	  The category MATH is fibred in groupoids over MATH. The category MATH is fibred in groupoids over MATH.  
+LEMMA	  The category MATH is a stack in groupoids over MATH (endowed with the inherited topology, see Stacks, Definition REF). The category MATH is a stack in groupoids over MATH.  
+LEMMA	  Let MATH be an algebraic space over MATH. Let MATH denote the corresponding algebraic stack (Algebraic Stacks, Sections REF, REF, and REF). We have an equivalence of categories MATH  
+LEMMA	  The functor (REF) defines a MATH-morphism MATH of stacks in groupoids over MATH which is algebraic in the sense of Criteria for Representability, Definition REF.  
+LEMMA	  The diagonal MATH is representable by algebraic spaces.  
+LEMMA	  The stack in groupoids MATH is limit preserving (Artin's Axioms, Definition REF).  
+LEMMA	  In Situation REF. Let MATH be a pushout in the category of schemes where MATH is a thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the functor on fibre categories MATH is an equivalence.  
+LEMMA	  Let MATH be a field and let MATH be an object of MATH over MATH. <CASES> CASE: If MATH is of finite type over MATH, then the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional, and CASE: in general the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional. </CASES>  
+LEMMA	[Strong formal effectiveness for polarized schemes]  [ Grothendieck's algebraization theorem continues to hold in the non-Noetherian setting if one assumes flatness and finite presentation. ] Let MATH be an inverse system of rings with surjective transition maps whose kernels are locally nilpotent. Set MATH. Set MATH and MATH. Consider a commutative diagram MATH of schemes with cartesian squares. Suppose given MATH where each MATH is an invertible sheaf on MATH and MATH is an isomorphism. If <CASES> CASE: MATH is proper, flat, of finite presentation, and CASE: MATH is ample on MATH </CASES> then there exists a morphism of schemes MATH proper, flat, and of finite presentation and an ample invertible MATH-module MATH and isomorphisms MATH and MATH compatible with the morphisms MATH and MATH.  
+LEMMA	  Consider the stack MATH over the base scheme MATH. Then every formal object is effective.  
+LEMMA	  The stack in groupoids MATH satisfies openness of versality over MATH. Similarly, after base change (Remark REF) openness of versality holds over any Noetherian base scheme MATH.  
+THEOM	[Algebraicity of the stack of polarized schemes]  The stack MATH (Situation REF) is algebraic. In fact, for any algebraic space MATH the stack MATH (Remark REF) is algebraic.  
+LEMMA	  The category MATH is fibred in groupoids over MATH.  
+LEMMA	  The category MATH is a stack in groupoids over MATH.  
+LEMMA	  The diagonal MATH is representable by algebraic spaces.  
+LEMMA	  The stack MATH is limit preserving (Artin's Axioms, Definition REF).  
+LEMMA	  Let MATH be a pushout in the category of schemes where MATH is a thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the functor on fibre categories MATH is an equivalence.  
+LEMMA	  Let MATH be a field and let MATH be an object of MATH over MATH. <CASES> CASE: If MATH is of finite type over MATH, then the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional, and CASE: in general the vector spaces MATH and MATH (see Artin's Axioms, Section REF) are finite dimensional. </CASES>  
+LEMMA	  Consider the stack MATH over the base scheme MATH. Then every formal object is effective.  
+LEMMA	  The stack in groupoids MATH satisfies openness of versality over MATH. Similarly, after base change (Remark REF) openness of versality holds over any Noetherian base scheme MATH.  
+THEOM	[Algebraicity of the stack of curves]  REF The stack MATH (Situation REF) is algebraic. In fact, for any algebraic space MATH the stack MATH (Remark REF) is algebraic.  
+LEMMA	  The MATH-morphism (REF) MATH is representable by open and closed immersions.  
+LEMMA	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Assume MATH is proper, flat, and of finite presentation. Let MATH. Assume MATH is pseudo-coherent and MATH is MATH-perfect (More on Morphisms of Spaces, Definition REF). For a field MATH and a morphism MATH denote MATH, MATH the pullback to the fibre MATH. <CASES> CASE: There is an open MATH characterized by the property MATH CASE: For any morphism MATH factoring through MATH we have MATH where MATH is the base change of MATH and MATH and MATH are the derived pullbacks of MATH and MATH to MATH. CASE: The functor MATH is a sheaf on MATH representable by an algebraic space affine and of finite presentation over MATH. </CASES>  
+LEMMA	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Assume MATH is proper, flat, and of finite presentation. Let MATH. Assume <CASES> CASE: MATH is MATH-perfect (More on Morphisms of Spaces, Definition REF), and CASE: for every point MATH we have MATH where MATH is the pullback to the fibre MATH. </CASES> Then <CASES> CASE: (1) and (2) are preserved by arbitrary base change MATH, CASE: MATH for MATH and all MATH over MATH, CASE: MATH is representable by an algebraic space affine and of finite presentation over MATH. </CASES> Here MATH is the base change of MATH and MATH is the derived pullback of MATH to MATH.  
+LEMMA	  In Situation REF the functor MATH is fibred in groupoids.  
+LEMMA	  In Situation REF. Denote MATH. Then MATH is representable by algebraic spaces.  
+LEMMA	  In Situation REF the functor MATH is a stack in groupoids.  
+LEMMA	  In Situation REF assume that MATH is locally of finite presentation. Then MATH is limit preserving (Artin's Axioms, Definition REF).  
+LEMMA	  In Situation REF. Let MATH be a pushout in the category of schemes over MATH where MATH is a finite order thickening and MATH is affine, see More on Morphisms, Lemma REF. Then the functor on fibre categories MATH is an equivalence.  
+LEMMA	  In Situation REF assume that MATH is a locally Noetherian scheme and MATH is locally of finite presentation. Let MATH be a finite type field over MATH and let MATH be an object of MATH over MATH. Then the spaces MATH and MATH (Artin's Axioms, Section REF) are finite dimensional.  
+LEMMA	  In Situation REF assume MATH is locally Noetherian. Then strong formal effectiveness in the sense of Artin's Axioms, Remark REF holds for MATH.  
+THEOM	[Algebraicity of moduli of complexes on a proper morphism]  REF Let MATH be a scheme. Let MATH be morphism of algebraic spaces over MATH. Assume that MATH is proper, flat, and of finite presentation. Then MATH is an algebraic stack over MATH.  

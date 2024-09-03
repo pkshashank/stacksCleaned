@@ -1,0 +1,1 @@
+\begin{lemma} \label{lemma-bar} ... \end{lemma} 

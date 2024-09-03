@@ -1,0 +1,84 @@
+DEFNN	  Let MATH be a ring map. The standard resolution of MATH over MATH is the augmentation MATH with terms MATH and maps as constructed above.  
+DEFNN	  The cotangent complex MATH of a ring map MATH is the complex of MATH-modules associated to the simplicial MATH-module MATH where MATH is the standard resolution of MATH over MATH.  
+LEMMA	  Let MATH be a system of ring maps over a directed index set MATH. Then MATH.  
+LEMMA	  With notation as above let MATH be a simplicial MATH-algebra endowed with an augmentation MATH. Assume each MATH is a polynomial algebra over MATH and MATH is a trivial Kan fibration on underlying simplicial sets. Then MATH in MATH, resp.\ MATH functorially in MATH in MATH, resp.\ MATH.  
+LEMMA	  Let MATH be a ring map. Let MATH be the standard resolution of MATH over MATH. Let MATH be as in (REF). Then MATH in MATH, resp.\ MATH functorially in MATH in MATH, resp.\ MATH.  
+LEMMA	  Let MATH be a ring map.  Let MATH and MATH be as in (REF). There is a canonical isomorphism MATH in MATH.  
+LEMMA	  If MATH is a ring map, then MATH with MATH as in (REF).  
+LEMMA	  If MATH is a ring map, then MATH.  
+LEMMA	  If MATH is a polynomial algebra over the ring MATH, then with MATH as in (REF) we have that MATH is exact and MATH.  
+LEMMA	  If MATH is a polynomial algebra over the ring MATH, then MATH is quasi-isomorphic to MATH.  
+LEMMA	  Let MATH be a Noetherian ring. Let MATH be a finite type ring map. Let MATH be the category of MATH-algebra maps MATH. Let MATH and let MATH be a simplicial object of MATH such that <CASES> CASE: MATH is a trivial Kan fibration of simplicial sets, CASE: MATH is finite type over MATH for MATH, CASE: MATH as simplicial objects of MATH. </CASES> Then MATH is a finite type MATH-algebra.  
+PROPN	  Let MATH be a Noetherian ring. Let MATH be a finite type ring map. There exists a simplicial MATH-algebra MATH with an augmentation MATH such that each MATH is a polynomial algebra of finite type over MATH and such that MATH is a trivial Kan fibration of simplicial sets.  
+LEMMA	  Let MATH be a Noetherian ring. Let MATH be a finite type ring map. Let MATH, MATH be as in (REF). If MATH is an MATH-module such that MATH is a finite MATH-module for all MATH, then the cohomology modules of MATH are finite MATH-modules.  
+LEMMA	  Let MATH be a Noetherian ring. Let MATH be a finite type ring map. Then MATH is a finite MATH-module for all MATH.  
+LEMMA	  Let MATH be a ring map. Let MATH, MATH, MATH be as in (REF). For any MATH-module MATH we have MATH in MATH.  
+LEMMA	  Let MATH be a ring map. Let MATH, MATH, MATH be as in (REF). We have MATH in MATH.  
+LEMMA	  Let MATH be ring maps. If MATH is a polynomial algebra over MATH, then there is a distinguished triangle  MATH in MATH.  
+LEMMA	  Assume (REF) induces a quasi-isomorphism MATH. Then, with notation as in (REF) and MATH, we have MATH.  
+LEMMA	  If (REF) induces a quasi-isomorphism MATH, then the functoriality map induces an isomorphism MATH  
+LEMMA	  Let MATH and MATH be ring maps. Then the map MATH is an isomorphism in MATH.  
+LEMMA	  With notation as in (REF) set MATH Then we have a canonical short exact sequence of sheaves of MATH-modules MATH on MATH.  
+LEMMA	  With notation as in (REF) suppose that MATH is a polynomial algebra over MATH. Then MATH for any abelian sheaf MATH on MATH  
+LEMMA	  With notation as in (REF) we have MATH for MATH and hence also MATH for MATH.  
+PROPN	  Let MATH be ring maps. There is a canonical distinguished triangle MATH in MATH.  
+LEMMA	  Let MATH be ring maps such that MATH. Then MATH in MATH.  
+LEMMA	  Let MATH be a ring map such that MATH. Then MATH in MATH.  
+LEMMA	  Let MATH be a ring map such that MATH for MATH and such that MATH. Then MATH in MATH.  
+LEMMA	  The cotangent complex MATH is zero in each of the following cases: <CASES> CASE: MATH and MATH are flat, i.e., MATH is weakly etale (More on Algebra, Definition REF), CASE: MATH is a flat epimorphism of rings, CASE: MATH for some multiplicative subset MATH, CASE: MATH is unramified and flat, CASE: MATH is etale, CASE: MATH is a filtered colimit of ring maps for which the cotangent complex vanishes, CASE: MATH is a henselization of a local ring of MATH, CASE: MATH is a strict henselization of a local ring of MATH, and CASE: add more here. </CASES>  
+LEMMA	  Let MATH be ring maps such that MATH. Then MATH.  
+LEMMA	  Let MATH be ring maps and MATH, MATH multiplicative subsets such that MATH maps into MATH. Then MATH in MATH.  
+LEMMA	  Let MATH be a local ring homomorphism of local rings. Let MATH, resp.\ MATH be the induced maps of henselizations, resp.\ strict henselizations. Then MATH in MATH, resp.\ MATH.  
+LEMMA	  If MATH is a smooth ring map, then MATH.  
+LEMMA	  Let MATH be a ring map with MATH in MATH. Let MATH be the standard resolution of MATH over MATH. The map MATH induced by the diagram MATH discussed in Section REF is homotopic to the Frobenius endomorphism MATH given by Frobenius on each MATH.  
+LEMMA	  Let MATH be a prime number. Let MATH be a ring homomorphism and assume that MATH in MATH. The map MATH of Section REF induced by the Frobenius maps MATH and MATH is homotopic to zero.  
+LEMMA	  Let MATH be a prime number. Let MATH be a ring homomorphism and assume that MATH in MATH. If MATH and MATH are perfect, then MATH is zero in MATH.  
+LEMMA	  [ The cohomology of the cotangent complex of a surjective ring map is trivial in degree zero; it is the kernel modulo its square in degree MATH. ] Let MATH be a surjective ring map with kernel MATH. Then MATH and MATH. This isomorphism comes from the map (REF) for the object MATH of MATH.  
+LEMMA	  Let MATH be a ring map. Then MATH is canonically quasi-isomorphic to the naive cotangent complex.  
+LEMMA	  Notation and assumptions as in Cohomology on Sites, Example REF. Assume MATH has a cosimplicial object as in Cohomology on Sites, Lemma REF. Let MATH be a flat MATH-module such that MATH. Then MATH for MATH.  
+LEMMA	  Let MATH be a ring. Let MATH be a polynomial ring. Set MATH. The maps MATH are zero for all MATH and MATH.  
+THEOM	[Quillen spectral sequence]  Let MATH be a surjective ring map. Consider the sheaf MATH of MATH-modules on MATH, see Section REF. Then there is a spectral sequence with MATH-page MATH with MATH of bidegree MATH. Moreover, MATH for MATH.  
+DEFNN	  Let MATH be a ring map. Let MATH be a MATH-bimodule over MATH. An MATH-biderivation is an MATH-linear map MATH such that MATH.  
+LEMMA	  Let MATH be a polynomial ring over MATH. Let MATH be a MATH-bimodule over MATH. Given MATH for MATH, there exists a unique MATH-biderivation MATH mapping MATH to MATH for MATH.  
+LEMMA	  In the situation above denote MATH the complex (REF). There is a canonical map MATH in MATH which induces an isomorphism MATH in MATH.  
+LEMMA	  Let MATH be the ring map which sends MATH to MATH for MATH. Let MATH. Then MATH is quasi-isomorphic to MATH.  
+LEMMA	  Let MATH be a surjective ring map whose kernel MATH is generated by a Koszul-regular sequence (for example a regular sequence). Then MATH is quasi-isomorphic to MATH.  
+LEMMA	  Let MATH be a surjective ring map whose kernel MATH is Koszul. Then MATH is quasi-isomorphic to MATH.  
+PROPN	  Let MATH be a local complete intersection map. Then MATH is a perfect complex with tor amplitude in MATH.  
+LEMMA	  If MATH and MATH are Tor independent MATH-algebras, then the object MATH in (REF) is zero. In this case we have MATH which is represented by the complex MATH of MATH-modules.  
+LEMMA	  Let MATH be a ring and let MATH, MATH be MATH-algebras. The object MATH in (REF) satisfies MATH  
+LEMMA	  In the situation above we have <CASES> CASE: There is a canonical element MATH whose vanishing is a sufficient and necessary condition for the existence of a solution to (REF). CASE: If there exists a solution, then the set of isomorphism classes of solutions is principal homogeneous under MATH. CASE: Given a solution MATH, the set of automorphisms of MATH fitting into (REF) is canonically isomorphic to MATH. </CASES>  
+DEFNN	  Let MATH be a ring map. Let MATH be a MATH-module. The map MATH in (REF) is called the Atiyah class of MATH.  
+DEFNN	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. The standard resolution of MATH over MATH is the augmentation MATH with terms MATH and maps as constructed above.  
+DEFNN	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. The cotangent complex MATH is the complex of MATH-modules associated to the simplicial module MATH where MATH is the standard resolution of MATH over MATH. We usually think of MATH as an object of MATH.  
+LEMMA	  Let MATH be a morphism of topoi. Let MATH be a homomorphism of sheaves of rings on MATH. Then MATH.  
+LEMMA	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. Then MATH is the sheaf associated to the presheaf MATH.  
+LEMMA	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. Then MATH.  
+LEMMA	  Let MATH be a site. Let MATH and MATH be homomorphisms of sheaves of rings on MATH. Then MATH is an isomorphism in MATH.  
+LEMMA	  Let MATH be a site. Let MATH be homomorphisms of sheaves of rings on MATH. There is a canonical distinguished triangle MATH in MATH.  
+LEMMA	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. If MATH is a point of MATH, then MATH.  
+LEMMA	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings on MATH. There is a canonical map MATH which identifies the naive cotangent complex with the truncation MATH.  
+DEFNN	  Let MATH be a site. Let MATH be a homomorphism of sheaves of rings. Let MATH be a sheaf of MATH-modules. The map MATH in (REF) is called the Atiyah class of MATH.  
+DEFNN	  Let MATH be a morphism of ringed spaces. The cotangent complex MATH of MATH is MATH. We will also use the notation MATH.  
+LEMMA	  Let MATH be a morphism of ringed spaces. Then MATH.  
+LEMMA	  Let MATH and MATH be morphisms of ringed spaces. Then there is a canonical distinguished triangle MATH in MATH.  
+LEMMA	  Let MATH be a morphism of ringed spaces. There is a canonical map MATH which identifies the naive cotangent complex with the truncation MATH.  
+LEMMA	  In the situation above we have <CASES> CASE: There is a canonical element MATH whose vanishing is a sufficient and necessary condition for the existence of a solution to (REF). CASE: If there exists a solution, then the set of isomorphism classes of solutions is principal homogeneous under MATH. CASE: Given a solution MATH, the set of automorphisms of MATH fitting into (REF) is canonically isomorphic to MATH. </CASES>  
+DEFNN	  Let MATH be a morphism of ringed topoi. The cotangent complex MATH of MATH is MATH. We sometimes write MATH.  
+LEMMA	  Let MATH be a morphism of ringed topoi. Then MATH.  
+LEMMA	  Let MATH and MATH be morphisms of ringed topoi. Then there is a canonical distinguished triangle MATH in MATH.  
+LEMMA	  Let MATH be a morphism of ringed topoi. There is a canonical map MATH which identifies the naive cotangent complex with the truncation MATH.  
+LEMMA	  In the situation above we have <CASES> CASE: There is a canonical element MATH whose vanishing is a sufficient and necessary condition for the existence of a solution to (REF). CASE: If there exists a solution, then the set of isomorphism classes of solutions is principal homogeneous under MATH. CASE: Given a solution MATH, the set of automorphisms of MATH fitting into (REF) is canonically isomorphic to MATH. </CASES>  
+DEFNN	  Let MATH be a morphism of schemes. The cotangent complex MATH of MATH over MATH is the cotangent complex of MATH as a morphism of ringed spaces (Definition REF).  
+LEMMA	  Let MATH be a morphism of schemes. Let MATH and MATH be affine opens such that MATH. There is a canonical map MATH of complexes which is an isomorphism in MATH. This map is compatible with restricting to smaller affine opens of MATH and MATH.  
+LEMMA	  Let MATH be a ring. Let MATH be a scheme over MATH. Then MATH where MATH is the constant sheaf with value MATH on MATH.  
+LEMMA	  In the situation above the category MATH is fibred over MATH.  
+LEMMA	  In the situation above there is a canonical isomorphism MATH in MATH.  
+DEFNN	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. The cotangent complex MATH of MATH over MATH is the cotangent complex of the morphism of ringed topoi MATH between the small etale sites of MATH and MATH (see Properties of Spaces, Lemma REF and Definition REF).  
+LEMMA	  Let MATH be a scheme. Consider a commutative diagram MATH of algebraic spaces over MATH with MATH and MATH etale. Then there is a canonical identification MATH in MATH.  
+LEMMA	  Let MATH be a scheme. Let MATH be a morphism of algebraic spaces over MATH. Assume MATH and MATH representable by schemes MATH and MATH. Then there is a canonical identification MATH in MATH where MATH is as in Derived Categories of Spaces, Section REF and MATH is as in  Definition REF.  
+LEMMA	  Let MATH be a ring. Let MATH be an algebraic space over MATH. Then MATH where MATH is the constant sheaf with value MATH on MATH.  
+LEMMA	  In the situation above the category MATH is fibred over MATH.  
+LEMMA	  In the situation above there is a canonical isomorphism MATH in MATH.  
+LEMMA	  In the situation above, if MATH and MATH are Tor independent over MATH, then the object MATH in (REF) is zero. In this case we have MATH  
+LEMMA	  Let MATH be a scheme. Let MATH and MATH be morphisms of algebraic spaces over MATH. The object MATH in (REF) satisfies MATH for MATH and for a geometric point MATH we have MATH where MATH, MATH, MATH, and MATH.  

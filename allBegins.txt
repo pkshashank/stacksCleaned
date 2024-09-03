@@ -1,0 +1,27 @@
+\begin{remarks}
+\begin{proposition} --
+\begin{situation}
+\begin{remark}
+\begin{proof} --
+\begin{matrix}
+\begin{history}
+\begin{enumerate}
+\begin{multicols}{2}
+\begin{reference}
+\begin{eqnarray}
+\begin{aligned}
+\begin{theorem} --
+\begin{center}
+\begin{example}
+\begin{equation}
+\begin{definition} --
+\begin{slogan}
+\begin{align*}
+\begin{lemma} --
+\begin{itemize}
+\begin{exercise}
+\begin{verbatim}
+\begin{quote}
+\begin{document}
+\begin{foo}
+\begin{eqnarray*}

@@ -1,0 +1,4 @@
+LEMMA	[Key fact]  The functor MATH, MATH is representable by a scheme MATH.  
+DEFNN	  We say a morphism MATH is smooth if for every morphism MATH the projection morphism MATH is smooth.  
+DEFNN	  We say MATH is an algebraic stack if and only if <CASES> CASE: We have descent for objects for the etale topology on MATH. CASE: The key fact holds. CASE: there exists a surjective and smooth morphism MATH. </CASES>  
+LEMMA	  The morphism MATH is smooth and surjective.  
