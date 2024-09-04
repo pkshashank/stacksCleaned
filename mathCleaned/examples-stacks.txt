@@ -1,21 +1,21 @@
-LEMMA	  A morphism MATH of MATH is strongly cartesian if and only if the map MATH induces an isomorphism MATH.  
-LEMMA	  The functor MATH satisfies conditions (1), (2) and (3) of Stacks, Definition REF.  
-LEMMA	  The functor MATH satisfies conditions (1), (2) and (3) of Stacks, Definition REF.  
-LEMMA	  Let MATH be a ringed space. <CASES> CASE: The category of finite type MATH-modules has a set of isomorphism classes. CASE: The category of finite type quasi-coherent MATH-modules has a set of isomorphism classes. </CASES>  
-LEMMA	  There exists a subcategory MATH with the following properties: <CASES> CASE: the inclusion functor MATH is fully faithful and essentially surjective, and CASE: the functor MATH turns MATH into a stack over MATH. </CASES>  
-LEMMA	  The functor MATH defines a stack over MATH.  
-LEMMA	  A morphism MATH of MATH is strongly cartesian if and only if the map MATH induces an isomorphism MATH.  
-LEMMA	  The functor MATH satisfies conditions (1) and (2) of Stacks, Definition REF.  
-LEMMA	  The functor MATH satisfies the conditions (1), (2) and (3) of Stacks, Definition REF.  
-LEMMA	  There exists a subcategory MATH with the following properties: <CASES> CASE: the inclusion functor MATH is fully faithful and essentially surjective, and CASE: the functor MATH turns MATH into a stack over MATH. </CASES>  
-LEMMA	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
-LEMMA	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
-LEMMA	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
-LEMMA	  Let MATH be an algebraic space over MATH. Let MATH be a group algebraic space over MATH. Denote MATH, resp.\ MATH the algebraic space MATH, resp.\ MATH seen as a sheaf on MATH. The functor MATH which associates to a triple MATH the triple MATH where MATH is MATH viewed as a sheaf is an equivalence of stacks in groupoids over MATH.  
-LEMMA	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
-PROPN	  In Situation REF there exists a canonical equivalence MATH of stacks in groupoids over MATH.  
-LEMMA	  [ The classifying stack of a group scheme or group algebraic space. ] Let MATH be a scheme. Let MATH be an algebraic space over MATH. Let MATH be a group algebraic space over MATH. Then the stacks in groupoids MATH are all canonically equivalent. If MATH is flat and locally of finite presentation, then these are also equivalent to MATH.  
-LEMMA	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
-LEMMA	  The category MATH endowed with the functor MATH above defines a stack in groupoids over MATH.  
-DEFNN	  We will denote MATH the degree MATH finite Hilbert stack of MATH over MATH constructed above. If MATH we write MATH. If MATH we denote it MATH.  
-LEMMA	  The MATH-morphism MATH is faithful.  
+LEM	  A morphism MATH of MATH is strongly cartesian if and only if the map MATH induces an isomorphism MATH.  
+LEM	  The functor MATH satisfies conditions (1), (2) and (3) of Stacks, Definition REF.  
+LEM	  The functor MATH satisfies conditions (1), (2) and (3) of Stacks, Definition REF.  
+LEM	  Let MATH be a ringed space. <CASES> CASE: The category of finite type MATH-modules has a set of isomorphism classes. CASE: The category of finite type quasi-coherent MATH-modules has a set of isomorphism classes. </CASES>  
+LEM	  There exists a subcategory MATH with the following properties: <CASES> CASE: the inclusion functor MATH is fully faithful and essentially surjective, and CASE: the functor MATH turns MATH into a stack over MATH. </CASES>  
+LEM	  The functor MATH defines a stack over MATH.  
+LEM	  A morphism MATH of MATH is strongly cartesian if and only if the map MATH induces an isomorphism MATH.  
+LEM	  The functor MATH satisfies conditions (1) and (2) of Stacks, Definition REF.  
+LEM	  The functor MATH satisfies the conditions (1), (2) and (3) of Stacks, Definition REF.  
+LEM	  There exists a subcategory MATH with the following properties: <CASES> CASE: the inclusion functor MATH is fully faithful and essentially surjective, and CASE: the functor MATH turns MATH into a stack over MATH. </CASES>  
+LEM	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
+LEM	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
+LEM	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
+LEM	  Let MATH be an algebraic space over MATH. Let MATH be a group algebraic space over MATH. Denote MATH, resp.\ MATH the algebraic space MATH, resp.\ MATH seen as a sheaf on MATH. The functor MATH which associates to a triple MATH the triple MATH where MATH is MATH viewed as a sheaf is an equivalence of stacks in groupoids over MATH.  
+LEM	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
+PRP	  In Situation REF there exists a canonical equivalence MATH of stacks in groupoids over MATH.  
+LEM	  [ The classifying stack of a group scheme or group algebraic space. ] Let MATH be a scheme. Let MATH be an algebraic space over MATH. Let MATH be a group algebraic space over MATH. Then the stacks in groupoids MATH are all canonically equivalent. If MATH is flat and locally of finite presentation, then these are also equivalent to MATH.  
+LEM	  Up to a replacement as in Stacks, Remark REF the functor MATH defines a stack in groupoids over MATH.  
+LEM	  The category MATH endowed with the functor MATH above defines a stack in groupoids over MATH.  
+DEF	  We will denote MATH the degree MATH finite Hilbert stack of MATH over MATH constructed above. If MATH we write MATH. If MATH we denote it MATH.  
+LEM	  The MATH-morphism MATH is faithful.  

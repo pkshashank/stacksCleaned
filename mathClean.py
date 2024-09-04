@@ -31,6 +31,7 @@ def mathCleaner(inFileName,outFileName):
         line = re.sub("\$.*?\$", "MATH", line) 
         line = re.sub("\\\label{.*?}", "", line) 
         line = re.sub("\\\cite{.*?}", "REF", line)
+        line = re.sub("\\\href{.*?}{.*?}", "REF", line)
         
 
         line = line.replace("\\begin{enumerate}","<CASES>")
@@ -57,14 +58,14 @@ def mathCleaner(inFileName,outFileName):
         
 
         line = deleteStrings("{\\it ", "}", line)
-        line = deleteStrings("\\emph{", "} ", line)
-        line = deleteStrings("{\\bf", "} ", line)
+        line = deleteStrings("\\emph{", "}", line)
+        line = deleteStrings("{\\bf", "}", line)
         
         line = re.sub("\\\end{.*?}", "", line)
-        line = line.replace("\\begin{lemma}", "LEMMA\t")
-        line = line.replace("\\begin{definition}", "DEFNN\t")
-        line = line.replace("\\begin{theorem}", "THEOM\t")
-        line = line.replace("\\begin{proposition}", "PROPN\t")
+        line = line.replace("\\begin{lemma}", "LEM\t")
+        line = line.replace("\\begin{definition}", "DEF\t")
+        line = line.replace("\\begin{theorem}", "THM\t")
+        line = line.replace("\\begin{proposition}", "PRP\t")
 
 
         line = line.replace("\\'e", "e") # for etale
