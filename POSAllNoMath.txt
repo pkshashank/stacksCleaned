@@ -1,0 +1,197 @@
+A_DT locally_RB Noetherian_JJ scheme_NN is_VBZ quasi-separated_VBN ._.
+Any_DT locally_RB closed_VBN subscheme_NN of_IN a_DT (_-LRB- locally_RB )_-RRB- Noetherian_JJ scheme_NN is_VBZ (_-LRB- locally_RB )_-RRB- Noetherian_JJ ._.
+A_DT Noetherian_JJ scheme_NN has_VBZ a_DT finite_JJ number_NN of_IN irreducible_JJ components_NNS ._.
+Any_DT nonempty_NN locally_RB Noetherian_JJ scheme_NN has_VBZ a_DT closed_VBN point_NN ._.
+Any_DT nonempty_JJ closed_JJ subset_NN of_IN a_DT locally_RB Noetherian_JJ scheme_NN has_VBZ a_DT closed_VBN point_NN ._.
+Equivalently_RB ,_, any_DT point_NN of_IN a_DT locally_RB Noetherian_JJ scheme_NN specializes_VBZ to_IN a_DT closed_VBN point_NN ._.
+A_DT normal_JJ scheme_NN is_VBZ reduced_VBN ._.
+A_DT regular_JJ scheme_NN is_VBZ normal_JJ ._.
+A_DT Nagata_NNP scheme_NN is_VBZ locally_RB Noetherian_JJ ._.
+A_DT normal_JJ scheme_NN is_VBZ geometrically_RB unibranch_JJ ._.
+For_IN abelian_JJ presheaves_NNS on_IN a_DT category_NN there_EX is_VBZ a_DT functorial_JJ injective_JJ embedding_NN ._.
+A_DT Grothendieck_NNP abelian_JJ category_NN has_VBZ Ab3_NN *_NFP ._.
+A_DT finite_FW disjoint_FW union_NN of_IN quasi-compact_JJ algebraic_JJ spaces_NNS is_VBZ a_DT quasi-compact_JJ algebraic_JJ space_NN ._.
+The_DT composition_NN of_IN two_CD etale_JJ morphisms_NNS of_IN algebraic_JJ spaces_NNS is_VBZ etale_JJ ._.
+The_DT base_JJ change_NN of_IN an_DT etale_FW morphism_FW of_IN algebraic_JJ spaces_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ spaces_NNS is_VBZ etale_JJ ._.
+The_DT support_NN of_IN a_DT sheaf_NN of_IN rings_NNS on_IN the_DT small_JJ etale_NN site_NN of_IN an_DT algebraic_JJ space_NN is_VBZ closed_VBN ._.
+A_DT regular_JJ algebraic_JJ space_NN is_VBZ normal_JJ ._.
+Any_DT etale_NN covering_VBG and_CC any_DT Zariski_NNP covering_NN is_VBZ a_DT pro-etale_JJ covering_NN ._.
+The_DT composition_NN of_IN two_CD trivial_JJ Kan_NNP fibrations_NNS is_VBZ a_DT trivial_JJ Kan_NNP fibration_NN ._.
+A_DT filtered_VBN colimit_NN of_IN trivial_JJ Kan_NNP fibrations_NNS is_VBZ a_DT trivial_JJ Kan_NNP fibration_NN ._.
+The_DT composition_NN of_IN two_CD Kan_NNP fibrations_NNS is_VBZ a_DT Kan_NNP fibration_NN ._.
+A_DT Gorenstein_NNP scheme_NN is_VBZ Cohen_NNP -_HYPH Macaulay_NNP ._.
+A_DT regular_JJ scheme_NN is_VBZ Gorenstein_NNP ._.
+A_DT Gorenstein_NNP morphism_NN is_VBZ Cohen_NNP -_HYPH Macaulay_NNP ._.
+A_DT syntomic_JJ morphism_NN is_VBZ Gorenstein_NNP ._.
+Equivalently_RB a_DT flat_JJ local_JJ complete_JJ intersection_NN morphism_NN is_VBZ Gorenstein_NNP ._.
+Any_DT Zariski_NNP covering_NN is_VBZ an_DT etale_JJ covering_NN ._.
+Any_DT etale_NN covering_VBG is_VBZ a_DT smooth_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT Zariski_NNP covering_NN is_VBZ a_DT smooth_JJ covering_NN ._.
+Any_DT smooth_JJ covering_NN is_VBZ a_DT syntomic_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT etale_NN or_CC Zariski_NN covering_NN is_VBZ a_DT syntomic_JJ covering_NN ._.
+Any_DT syntomic_JJ covering_NN is_VBZ an_DT fppf_NN covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT smooth_JJ ,_, etale_JJ ,_, or_CC Zariski_NNP covering_NN is_VBZ an_DT fppf_NN covering_VBG ._.
+Any_DT fppf_NN covering_VBG is_VBZ a_DT ph_NN covering_VBG ,_, and_CC a_DT fortiori_NN ,_, any_DT syntomic_JJ ,_, smooth_JJ ,_, etale_JJ or_CC Zariski_JJ covering_NN is_VBZ a_DT ph_NN covering_VBG ._.
+Any_DT fppf_NN covering_VBG is_VBZ an_DT fpqc_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT syntomic_JJ ,_, smooth_JJ ,_, etale_JJ or_CC Zariski_JJ covering_NN is_VBZ an_DT fpqc_JJ covering_NN ._.
+A_DT rig_NN -_HYPH etale_NN morphism_NN of_IN locally_RB Noetherian_JJ formal_JJ algebraic_JJ spaces_NNS is_VBZ locally_RB of_IN finite_JJ type_NN ._.
+A_DT rig_NN -_HYPH etale_NN morphism_NN of_IN locally_RB Noetherian_JJ formal_JJ algebraic_JJ spaces_NNS is_VBZ rig_NN -_HYPH smooth_JJ ._.
+[_-LRB- Popescu_NNP ]_-RRB- Any_DT regular_JJ homomorphism_NN of_IN Noetherian_JJ rings_NNS is_VBZ a_DT filtered_VBN colimit_NN of_IN smooth_JJ ring_NN maps_NNS ._.
+The_DT category_NN of_IN affine_NN schemes_NNS is_VBZ equivalent_JJ to_IN the_DT opposite_NN of_IN the_DT category_NN of_IN rings_NNS ._.
+The_DT equivalence_NN is_VBZ given_VBN by_IN the_DT functor_NN that_WDT associates_VBZ to_IN an_DT affine_JJ scheme_NN the_DT global_JJ sections_NNS of_IN its_PRP$ structure_NN sheaf_NN ._.
+Being_VBG quasi-compact_NN is_VBZ a_DT property_NN of_IN morphisms_NNS of_IN schemes_NNS over_IN a_DT base_NN which_WDT is_VBZ preserved_VBN under_IN arbitrary_JJ base_NN change_NN ._.
+The_DT composition_NN of_IN quasi-compact_NN morphisms_NNS is_VBZ quasi-compact_JJ ._.
+A_DT closed_JJ immersion_NN is_VBZ quasi-compact_JJ ._.
+The_DT diagonal_JJ morphism_NN of_IN a_DT morphism_NN between_IN affines_NNS is_VBZ closed_VBN ._.
+An_DT affine_JJ scheme_NN is_VBZ separated_VBN ._.
+A_DT morphism_NN from_IN an_DT affine_JJ scheme_NN to_IN another_DT scheme_NN is_VBZ separated_VBN ._.
+A_DT monomorphism_NN of_IN schemes_NNS is_VBZ separated_VBN ._.
+A_DT composition_NN of_IN monomorphisms_NNS is_VBZ a_DT monomorphism_NN ._.
+The_DT base_JJ change_NN of_IN a_DT monomorphism_NN is_VBZ a_DT monomorphism_NN ._.
+An_DT immersion_NN of_IN schemes_NNS is_VBZ a_DT monomorphism_NN ._.
+In_IN particular_JJ ,_, any_DT immersion_NN is_VBZ separated_VBN ._.
+A_DT composition_NN of_IN immersions_NNS of_IN schemes_NNS is_VBZ an_DT immersion_NN ,_, a_DT composition_NN of_IN closed_JJ immersions_NNS of_IN schemes_NNS is_VBZ a_DT closed_JJ immersion_NN ,_, and_CC a_DT composition_NN of_IN open_JJ immersions_NNS of_IN schemes_NNS is_VBZ an_DT open_JJ immersion_NN ._.
+An_DT fppf_NN covering_VBG is_VBZ a_DT h_NN covering_VBG ._.
+Hence_RB syntomic_JJ ,_, smooth_JJ ,_, etale_NN ,_, and_CC Zariski_NNP coverings_NNS are_VBP h_NN coverings_NNS as_RB well_RB ._.
+A_DT Gorenstein_NNP ring_NN is_VBZ Cohen_NNP -_HYPH Macaulay_NNP ._.
+A_DT regular_JJ local_JJ ring_NN is_VBZ Gorenstein_NNP ._.
+A_DT regular_JJ ring_NN is_VBZ Gorenstein_NNP ._.
+The_DT category_NN of_IN abelian_JJ sheaves_NNS on_IN a_DT site_NN is_VBZ an_DT abelian_JJ category_NN which_WDT has_VBZ enough_JJ injectives_NNS ._.
+The_DT collection_NN of_IN fpqc_JJ coverings_NNS on_IN the_DT category_NN of_IN schemes_NNS satisfies_VBZ the_DT axioms_NNS of_IN site_NN ._.
+A_DT morphism_NN of_IN schemes_NNS is_VBZ etale_JJ if_IN it_PRP is_VBZ smooth_JJ of_IN relative_JJ dimension_NN 0_CD ._.
+Any_DT etale_NN covering_VBG is_VBZ an_DT fpqc_JJ covering_NN ._.
+Complete_JJ local_JJ rings_NNS are_VBP henselian_JJ ._.
+This_DT construction_NN gives_VBZ the_DT cup_NN product_NN ._.
+The_DT cone_NN on_IN a_DT morphism_NN of_IN strictly_RB perfect_JJ complexes_NNS is_VBZ strictly_RB perfect_JJ ._.
+The_DT total_JJ complex_NN associated_VBN to_IN the_DT tensor_NN product_NN of_IN two_CD strictly_RB perfect_JJ complexes_NNS is_VBZ strictly_RB perfect_JJ ._.
+A_DT monomorphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ separated_VBN and_CC DM_NNP ._.
+The_DT same_JJ is_VBZ true_JJ for_IN immersions_NNS of_IN algebraic_JJ stacks_NNS ._.
+The_DT base_JJ change_NN of_IN a_DT quasi-compact_JJ morphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ quasi-compact_JJ ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN quasi-compact_JJ morphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ quasi-compact_JJ ._.
+A_DT closed_JJ immersion_NN of_IN algebraic_JJ stacks_NNS is_VBZ quasi-compact_JJ ._.
+Compositions_NNS of_IN affine_JJ morphisms_NNS of_IN algebraic_JJ stacks_NNS are_VBP affine_JJ ._.
+Compositions_NNS of_IN integral_NN ,_, resp_NN ._.
+\_FW finite_FW morphisms_NNS of_IN algebraic_JJ stacks_NNS are_VBP integral_JJ ,_, resp_NN ._.
+\_FW finite_FW ._.
+The_DT base_JJ change_NN of_IN a_DT universally_RB open_JJ morphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ universally_RB open_JJ ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN (_-LRB- universally_RB )_-RRB- open_JJ morphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ (_-LRB- universally_RB )_-RRB- open_JJ ._.
+The_DT base_JJ change_NN of_IN a_DT universally_RB submersive_JJ morphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ universally_RB submersive_JJ ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN (_-LRB- universally_RB )_-RRB- submersive_JJ morphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ (_-LRB- universally_RB )_-RRB- submersive_JJ ._.
+The_DT base_JJ change_NN of_IN a_DT universally_RB closed_VBN morphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ universally_RB closed_VBN ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN (_-LRB- universally_RB )_-RRB- closed_VBD morphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ (_-LRB- universally_RB )_-RRB- closed_VBD ._.
+The_DT base_JJ change_NN of_IN a_DT universally_RB injective_JJ morphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ universally_RB injective_JJ ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN universally_RB injective_JJ morphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ universally_RB injective_JJ ._.
+The_DT base_JJ change_NN of_IN a_DT universal_JJ homeomorphism_NN of_IN algebraic_JJ stacks_NNS by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ a_DT universal_JJ homeomorphism_NN ._.
+The_DT composition_NN of_IN a_DT pair_NN of_IN universal_JJ homeomorphisms_NNS of_IN algebraic_JJ stacks_NNS is_VBZ a_DT universal_JJ homeomorphism_NN ._.
+The_DT composition_NN of_IN finite_JJ type_NN morphisms_NNS is_VBZ of_IN finite_JJ type_NN ._.
+The_DT same_JJ holds_VBZ for_IN locally_RB of_IN finite_JJ type_NN ._.
+A_DT base_NN change_NN of_IN a_DT finite_JJ type_NN morphism_NN is_VBZ finite_JJ type_NN ._.
+The_DT same_JJ holds_VBZ for_IN locally_RB of_IN finite_JJ type_NN ._.
+An_DT immersion_NN is_VBZ locally_RB of_IN finite_JJ type_NN ._.
+A_DT base_NN change_NN of_IN a_DT locally_RB quasi-finite_JJ morphism_NN is_VBZ locally_RB quasi-finite_JJ ._.
+A_DT composition_NN of_IN a_DT locally_RB quasi-finite_JJ morphisms_NNS is_VBZ locally_RB quasi-finite_JJ ._.
+The_DT composition_NN of_IN quasi-finite_JJ morphisms_NNS is_VBZ quasi-finite_JJ ._.
+A_DT base_NN change_NN of_IN a_DT quasi-finite_JJ morphism_NN is_VBZ quasi-finite_JJ ._.
+The_DT composition_NN of_IN flat_JJ morphisms_NNS is_VBZ flat_JJ ._.
+A_DT base_NN change_NN of_IN a_DT flat_JJ morphism_NN is_VBZ flat_JJ ._.
+The_DT composition_NN of_IN finitely_RB presented_VBN morphisms_NNS is_VBZ of_IN finite_JJ presentation_NN ._.
+The_DT same_JJ holds_VBZ for_IN morphisms_NNS which_WDT are_VBP locally_RB of_IN finite_JJ presentation_NN ._.
+A_DT base_NN change_NN of_IN a_DT finitely_RB presented_VBN morphism_NN is_VBZ of_IN finite_JJ presentation_NN ._.
+The_DT same_JJ holds_VBZ for_IN morphisms_NNS which_WDT are_VBP locally_RB of_IN finite_JJ presentation_NN ._.
+A_DT morphism_NN which_WDT is_VBZ locally_RB of_IN finite_JJ presentation_NN is_VBZ locally_RB of_IN finite_JJ type_NN ._.
+A_DT morphism_NN of_IN finite_JJ presentation_NN is_VBZ of_IN finite_JJ type_NN ._.
+An_DT open_JJ immersion_NN is_VBZ locally_RB of_IN finite_JJ presentation_NN ._.
+The_DT composition_NN of_IN smooth_JJ morphisms_NNS is_VBZ smooth_JJ ._.
+A_DT base_NN change_NN of_IN a_DT smooth_JJ morphism_NN is_VBZ smooth_JJ ._.
+A_DT smooth_JJ morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ locally_RB of_IN finite_JJ presentation_NN ._.
+The_DT composition_NN of_IN etale_NN morphisms_NNS is_VBZ etale_JJ ._.
+A_DT base_NN change_NN of_IN an_DT etale_NN morphism_NN is_VBZ etale_NN ._.
+An_DT open_JJ immersion_NN is_VBZ etale_NN ._.
+The_DT composition_NN of_IN unramified_JJ morphisms_NNS is_VBZ unramified_JJ ._.
+A_DT base_NN change_NN of_IN an_DT unramified_JJ morphism_NN is_VBZ unramified_JJ ._.
+An_DT etale_NN morphism_NN is_VBZ unramified_JJ ._.
+An_DT immersion_NN is_VBZ unramified_JJ ._.
+An_DT unramified_JJ morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ locally_RB quasi-finite_JJ ._.
+A_DT base_NN change_NN of_IN a_DT proper_JJ morphism_NN is_VBZ proper_JJ ._.
+A_DT composition_NN of_IN proper_JJ morphisms_NNS is_VBZ proper_JJ ._.
+A_DT closed_JJ immersion_NN of_IN algebraic_JJ stacks_NNS is_VBZ a_DT proper_JJ morphism_NN of_IN algebraic_JJ stacks_NNS ._.
+The_DT base_JJ change_NN of_IN a_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT uniqueness_NN part_NN of_IN the_DT valuative_JJ criterion_NN by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ a_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT uniqueness_NN part_NN of_IN the_DT valuative_JJ criterion_NN ._.
+The_DT composition_NN of_IN morphisms_NNS of_IN algebraic_JJ stacks_NNS which_WDT satisfy_VBP the_DT uniqueness_JJ part_NN of_IN the_DT valuative_JJ criterion_NN is_VBZ another_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT uniqueness_NN part_NN of_IN the_DT valuative_JJ criterion_NN ._.
+The_DT base_JJ change_NN of_IN a_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT existence_NN part_NN of_IN the_DT valuative_JJ criterion_NN by_IN any_DT morphism_NN of_IN algebraic_JJ stacks_NNS is_VBZ a_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT existence_NN part_NN of_IN the_DT valuative_JJ criterion_NN ._.
+The_DT composition_NN of_IN morphisms_NNS of_IN algebraic_JJ stacks_NNS which_WDT satisfy_VBP the_DT existence_NN part_NN of_IN the_DT valuative_JJ criterion_NN is_VBZ another_DT morphism_NN of_IN algebraic_JJ stacks_NNS which_WDT satisfies_VBZ the_DT existence_NN part_NN of_IN the_DT valuative_JJ criterion_NN ._.
+A_DT closed_JJ immersion_NN of_IN algebraic_JJ stacks_NNS satisfies_VBZ both_CC the_DT existence_NN and_CC uniqueness_NN part_NN of_IN the_DT valuative_JJ criterion_NN ._.
+The_DT composition_NN of_IN local_JJ complete_JJ intersection_NN morphisms_NNS is_VBZ a_DT local_JJ complete_JJ intersection_NN ._.
+A_DT flat_JJ base_NN change_NN of_IN a_DT local_JJ complete_JJ intersection_NN morphism_NN is_VBZ a_DT local_JJ complete_JJ intersection_NN morphism_NN ._.
+Any_DT faithfully_RB flat_JJ ring_NN map_NN is_VBZ universally_RB injective_JJ ._.
+A_DT universally_RB injective_JJ etale_FW morphism_FW is_VBZ an_DT open_JJ immersion_NN ._.
+A_DT surjective_JJ and_CC flat_JJ morphism_NN is_VBZ an_DT epimorphism_NN in_IN the_DT category_NN of_IN schemes_NNS ._.
+A_DT groupoid_NN is_VBZ a_DT category_NN where_WRB every_DT morphism_NN is_VBZ an_DT isomorphism_NN ._.
+A_DT functor_NN is_VBZ an_DT equivalence_NN of_IN categories_NNS if_IN and_CC only_RB if_IN it_PRP is_VBZ both_DT fully_RB faithful_JJ and_CC essentially_RB surjective_JJ ._.
+A_DT category_NN is_VBZ called_VBN discrete_JJ if_IN the_DT only_JJ morphisms_NNS are_VBP the_DT identity_NN morphisms_NNS ._.
+Let_VB us_PRP call_VB a_DT category_NN a_DT setoid_NN if_IN it_PRP is_VBZ a_DT groupoid_NN where_WRB every_DT object_NN has_VBZ exactly_RB one_CD automorphism_NN :_: the_DT identity_NN ._.
+The_DT composition_NN of_IN surjective_JJ morphisms_NNS is_VBZ surjective_JJ ._.
+The_DT base_JJ change_NN of_IN a_DT surjective_JJ morphism_NN is_VBZ surjective_JJ ._.
+A_DT finite_FW disjoint_FW union_NN of_IN quasi-compact_JJ algebraic_JJ stacks_NNS is_VBZ a_DT quasi-compact_JJ algebraic_JJ stack_NN ._.
+Compositions_NNS of_IN monomorphisms_NNS of_IN algebraic_JJ stacks_NNS are_VBP monomorphisms_NNS ._.
+[_-LRB- Monomorphisms_NNPS of_IN stacks_NNS are_VBP injective_JJ on_IN points_NNS ._. ]_-RRB-
+A_DT monomorphism_NN of_IN algebraic_JJ stacks_NNS induces_VBZ an_DT injective_JJ map_NN of_IN sets_NNS of_IN points_NNS ._.
+Compositions_NNS of_IN immersions_NNS of_IN algebraic_JJ stacks_NNS are_VBP immersions_NNS ._.
+Similarly_RB for_IN closed_JJ immersions_NNS and_CC open_JJ immersions_NNS ._.
+An_DT immersion_NN is_VBZ a_DT monomorphism_NN ._.
+Any_DT Zariski_NNP covering_NN is_VBZ an_DT etale_JJ covering_NN ._.
+Any_DT etale_NN covering_VBG is_VBZ a_DT smooth_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT Zariski_NNP covering_NN is_VBZ a_DT smooth_JJ covering_NN ._.
+Any_DT smooth_JJ covering_NN is_VBZ a_DT syntomic_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT etale_NN or_CC Zariski_NN covering_NN is_VBZ a_DT syntomic_JJ covering_NN ._.
+Any_DT syntomic_JJ covering_NN is_VBZ an_DT fppf_NN covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT smooth_JJ ,_, etale_JJ ,_, or_CC Zariski_NNP covering_NN is_VBZ an_DT fppf_NN covering_VBG ._.
+A_DT Zariski_NNP covering_NN is_VBZ a_DT ph_NN covering_VBG ._.
+Any_DT fppf_NN covering_VBG is_VBZ an_DT fpqc_JJ covering_NN ,_, and_CC a_DT fortiori_NN ,_, any_DT syntomic_JJ ,_, smooth_JJ ,_, etale_JJ or_CC Zariski_JJ covering_NN is_VBZ an_DT fpqc_JJ covering_NN ._.
+A_DT standard_JJ fpqc_NN covering_VBG is_VBZ a_DT standard_JJ V_NN covering_NN ._.
+A_DT standard_JJ ph_NN covering_NN is_VBZ a_DT standard_JJ V_NN covering_NN ._.
+Any_DT fpqc_NN covering_VBG is_VBZ a_DT V_NN covering_VBG ._.
+A_DT fortiori_NN ,_, any_DT fppf_NN ,_, syntomic_JJ ,_, smooth_JJ ,_, etale_JJ or_CC Zariski_JJ covering_NN is_VBZ a_DT V_NN covering_VBG ._.
+Also_RB ,_, a_DT ph_NN covering_NN is_VBZ a_DT V_NN covering_VBG ._.
+Any_DT set_NN of_IN big_JJ Zariski_NNP sites_NNS is_VBZ contained_VBN in_IN a_DT common_JJ big_JJ Zariski_NNP site_NN ._.
+The_DT same_JJ is_VBZ true_JJ ,_, mutatis_FW mutandis_FW ,_, for_IN big_JJ fppf_NN and_CC big_JJ etale_NN sites_NNS ._.
+A_DT normal_JJ local_JJ ring_NN with_IN separably_RB closed_VBN fraction_NN field_NN is_VBZ strictly_RB henselian_JJ ._.
+A_DT radicial_JJ morphism_NN of_IN algebraic_JJ spaces_NNS is_VBZ universally_RB injective_JJ ._.
+[_-LRB- David_NNP Rydh_NNP ]_-RRB- A_DT flat_JJ monomorphism_NN of_IN algebraic_JJ spaces_NNS is_VBZ representable_JJ by_IN schemes_NNS ._.
+A_DT quasi-compact_JJ flat_JJ surjective_JJ monomorphism_NN of_IN algebraic_JJ spaces_NNS is_VBZ an_DT isomorphism_NN ._.
+The_DT property_NN of_IN being_VBG a_DT thickening_NN is_VBZ fpqc_NN local_JJ ._.
+Similarly_RB for_IN first_JJ order_NN thickenings_NNS ._.
+A_DT composition_NN of_IN formally_RB unramified_JJ morphisms_NNS is_VBZ formally_RB unramified_JJ ._.
+A_DT base_NN change_NN of_IN a_DT formally_RB unramified_JJ morphism_NN is_VBZ formally_RB unramified_JJ ._.
+A_DT composition_NN of_IN formally_RB etale_JJ morphisms_NNS is_VBZ formally_RB etale_JJ ._.
+A_DT base_NN change_NN of_IN a_DT formally_RB etale_JJ morphism_NN is_VBZ formally_RB etale_JJ ._.
+An_DT unramified_JJ flat_JJ morphism_NN is_VBZ formally_RB etale_JJ ._.
+A_DT composition_NN of_IN formally_RB smooth_JJ morphisms_NNS is_VBZ formally_RB smooth_JJ ._.
+A_DT base_NN change_NN of_IN a_DT formally_RB smooth_JJ morphism_NN is_VBZ formally_RB smooth_JJ ._.
+A_DT flat_JJ base_NN change_NN of_IN a_DT pseudo-coherent_JJ morphism_NN is_VBZ pseudo-coherent_JJ ._.
+A_DT composition_NN of_IN pseudo-coherent_JJ morphisms_NNS is_VBZ pseudo-coherent_JJ ._.
+A_DT pseudo-coherent_JJ morphism_NN is_VBZ locally_RB of_IN finite_JJ presentation_NN ._.
+A_DT flat_JJ morphism_NN which_WDT is_VBZ locally_RB of_IN finite_JJ presentation_NN is_VBZ pseudo-coherent_JJ ._.
+A_DT flat_JJ base_NN change_NN of_IN a_DT perfect_JJ morphism_NN is_VBZ perfect_JJ ._.
+A_DT composition_NN of_IN perfect_JJ morphisms_NNS is_VBZ perfect_JJ ._.
+A_DT flat_JJ base_NN change_NN of_IN a_DT local_JJ complete_JJ intersection_NN morphism_NN is_VBZ a_DT local_JJ complete_JJ intersection_NN morphism_NN ._.
+A_DT composition_NN of_IN local_JJ complete_JJ intersection_NN morphisms_NNS is_VBZ a_DT local_JJ complete_JJ intersection_NN morphism_NN ._.
+..._NFP A_DT quasi-regular_JJ ideal_NN is_VBZ finitely_RB generated_VBN ._.
+A_DT composition_NN of_IN formally_RB smooth_JJ continuous_JJ homomorphisms_NNS of_IN linearly_RB topologized_VBN rings_NNS is_VBZ formally_RB smooth_JJ ._.
+A_DT Noetherian_JJ complete_JJ local_JJ ring_NN is_VBZ a_DT G_NN -_HYPH ring_NN ._.
+Any_DT localization_NN of_IN a_DT finite_JJ type_NN ring_NN over_IN a_DT (_-LRB- quasi_NN -_HYPH )_-RRB- excellent_JJ ring_NN is_VBZ (_-LRB- quasi_JJ -_HYPH )_-RRB- excellent_JJ ._.
+A_DT quasi-excellent_JJ ring_NN is_VBZ Nagata_NNP ._.
+A_DT finite_JJ type_NN ring_NN map_NN of_IN Noetherian_JJ rings_NNS is_VBZ pseudo-coherent_JJ ._.
+A_DT ring_NN map_NN which_WDT is_VBZ flat_JJ and_CC of_IN finite_JJ presentation_NN is_VBZ perfect_JJ ._.
+A_DT local_JJ complete_JJ intersection_NN homomorphism_NN is_VBZ perfect_JJ ._.
+A_DT product_NN of_IN fields_NNS is_VBZ an_DT absolutely_RB flat_JJ ring_NN ._.
+A_DT regular_JJ local_JJ ring_NN is_VBZ a_DT UFD_NNP ._.
+An_DT elementary_JJ divisor_NN domain_NN is_VBZ Bezout_NNP ._.
+The_DT localization_NN of_IN a_DT Bezout_NN domain_NN is_VBZ Bezout_NNP ._.
+Every_DT local_JJ ring_NN of_IN a_DT Bezout_NN domain_NN is_VBZ a_DT valuation_NN ring_NN ._.
+A_DT local_JJ domain_NN is_VBZ Bezout_NNP if_IN and_CC only_RB if_IN it_PRP is_VBZ a_DT valuation_NN ring_NN ._.
+The_DT sum_NN of_IN two_CD effective_JJ Cartier_NNP divisors_NNS is_VBZ an_DT effective_JJ Cartier_NNP divisor_NN ._.
+We_PRP have_VBP the_DT following_VBG compatibilities_NNS between_IN the_DT operations_NNS above_IN :_: (_-LRB- 1_LS )_-RRB- base_NN change_NN is_VBZ functorial_JJ ,_, (_-LRB- 2_LS )_-RRB- restriction_NN is_VBZ a_DT combination_NN of_IN base_NN change_NN and_CC (_-LRB- a_DT special_JJ case_NN of_IN )_-RRB- flat_JJ pullback_NN ,_, (_-LRB- 3_LS )_-RRB- flat_JJ pullback_NN commutes_NNS with_IN base_NN change_NN ,_, (_-LRB- 4_LS )_-RRB- flat_JJ pullback_NN is_VBZ functorial_JJ ,_, (_-LRB- 5_LS )_-RRB- proper_JJ pushforward_NN commutes_NNS with_IN base_NN change_NN ,_, (_-LRB- 6_CD )_-RRB- proper_JJ pushforward_NN is_VBZ functorial_JJ ,_, and_CC (_-LRB- 7_CD )_-RRB- proper_JJ pushforward_NN commutes_NNS with_IN flat_JJ pullback_NN ._.
+Any_DT locally_RB Noetherian_JJ decent_JJ algebraic_JJ space_NN is_VBZ quasi-separated_VBN ._.
+[_-LRB- David_NNP Rydh_NNP ]_-RRB- A_NNP locally_RB separated_VBD algebraic_JJ space_NN is_VBZ decent_JJ ._.
+The_DT composition_NN of_IN morphisms_NNS representable_JJ by_IN algebraic_JJ spaces_NNS is_VBZ representable_JJ by_IN algebraic_JJ spaces_NNS ._.
+The_DT same_JJ holds_VBZ for_IN representable_NN (_-LRB- by_IN schemes_NNS )_-RRB- ._.
+A_DT base_NN change_NN of_IN a_DT morphism_NN representable_JJ by_IN algebraic_JJ spaces_NNS is_VBZ representable_JJ by_IN algebraic_JJ spaces_NNS ._.
+The_DT same_JJ holds_VBZ for_IN representable_NN (_-LRB- by_IN schemes_NNS )_-RRB- ._.
+The_DT composition_NN of_IN finite_JJ type_NN morphisms_NNS is_VBZ of_IN finite_JJ type_NN ._.
+The_DT same_JJ holds_VBZ for_IN locally_RB of_IN finite_JJ type_NN ._.
+A_DT base_NN change_NN of_IN a_DT finite_JJ type_NN morphism_NN is_VBZ finite_JJ type_NN ._.
+The_DT same_JJ holds_VBZ for_IN locally_RB of_IN finite_JJ type_NN ._.
+The_DT composition_NN of_IN two_CD surjective_JJ morphisms_NNS is_VBZ a_DT surjective_JJ morphism_NN ._.

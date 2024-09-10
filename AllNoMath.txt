@@ -1,454 +1,450 @@
-LEM	  A locally Noetherian scheme is quasi-separated.  
-LEM	  Any locally closed subscheme of a (locally) Noetherian scheme is (locally) Noetherian.  
-LEM	  A Noetherian scheme has a finite number of irreducible components.  
-LEM	  Any nonempty locally Noetherian scheme has a closed point. Any nonempty closed subset of a locally Noetherian scheme has a closed point. Equivalently, any point of a locally Noetherian scheme specializes to a closed point.  
-LEM	  A normal scheme is reduced.  
-LEM	  A regular scheme is normal.  
-LEM	  A Nagata scheme is locally Noetherian.  
-LEM	  A normal scheme is geometrically unibranch.  
-PRP	  For abelian presheaves on a category there is a functorial injective embedding.  
-LEM	  A Grothendieck abelian category has Ab3*.  
-LEM	  A finite disjoint union of quasi-compact algebraic spaces is a quasi-compact algebraic space.  
-LEM	  The composition of two etale morphisms of algebraic spaces is etale.  
-LEM	  The base change of an etale morphism of algebraic spaces by any morphism of algebraic spaces is etale.  
-LEM	  The support of a sheaf of rings on the small etale site of an algebraic space is closed.  
-LEM	  A regular algebraic space is normal.  
-LEM	  Any etale covering and any Zariski covering is a pro-etale covering.  
-LEM	  The composition of two trivial Kan fibrations is a trivial Kan fibration.  
-LEM	  A filtered colimit of trivial Kan fibrations is a trivial Kan fibration.  
-LEM	  The composition of two Kan fibrations is a Kan fibration.  
-LEM	  A Gorenstein scheme is Cohen-Macaulay.  
-LEM	  A regular scheme is Gorenstein.  
-LEM	  A Gorenstein morphism is Cohen-Macaulay.  
-LEM	  A syntomic morphism is Gorenstein. Equivalently a flat local complete intersection morphism is Gorenstein.  
-LEM	  Any Zariski covering is an etale covering.  
-LEM	  Any etale covering is a smooth covering, and a fortiori, any Zariski covering is a smooth covering.  
-LEM	  Any smooth covering is a syntomic covering, and a fortiori, any etale or Zariski covering is a syntomic covering.  
-LEM	  Any syntomic covering is an fppf covering, and a fortiori, any smooth, etale, or Zariski covering is an fppf covering.  
-LEM	  Any fppf covering is a ph covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is a ph covering.  
-LEM	  Any fppf covering is an fpqc covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is an fpqc covering.  
-LEM	  A rig-etale morphism of locally Noetherian formal algebraic spaces is locally of finite type.  
-LEM	  A rig-etale morphism of locally Noetherian formal algebraic spaces is rig-smooth.  
-THM	[Popescu]  Any regular homomorphism of Noetherian rings is a filtered colimit of smooth ring maps.  
-LEM	  The category of affine schemes is equivalent to the opposite of the category of rings. The equivalence is given by the functor that associates to an affine scheme the global sections of its structure sheaf.  
-LEM	  Being quasi-compact is a property of morphisms of schemes over a base which is preserved under arbitrary base change.  
-LEM	  The composition of quasi-compact morphisms is quasi-compact.  
-LEM	  A closed immersion is quasi-compact.  
-LEM	  The diagonal morphism of a morphism between affines is closed.  
-LEM	  Permanence properties. <CASES> CASE: A composition of separated morphisms is separated. CASE: A composition of quasi-separated morphisms is quasi-separated. CASE: The base change of a separated morphism is separated. CASE: The base change of a quasi-separated morphism is quasi-separated. CASE: A (fibre) product of separated morphisms is separated. CASE: A (fibre) product of quasi-separated morphisms is quasi-separated. </CASES>  
-LEM	  An affine scheme is separated. A morphism from an affine scheme to another scheme is separated.  
-LEM	  A monomorphism of schemes is separated.  
-LEM	  A composition of monomorphisms is a monomorphism.  
-LEM	  The base change of a monomorphism is a monomorphism.  
-LEM	  An immersion of schemes is a monomorphism. In particular, any immersion is separated.  
-LEM	  A composition of immersions of schemes is an immersion, a composition of closed immersions of schemes is a closed immersion, and a composition of open immersions of schemes is an open immersion.  
-LEM	  An fppf covering is a h covering. Hence syntomic, smooth, etale, and Zariski coverings are h coverings as well.  
-LEM	  A Gorenstein ring is Cohen-Macaulay.  
-LEM	  A regular local ring is Gorenstein. A regular ring is Gorenstein.  
-THM	  The category of abelian sheaves on a site is an abelian category which has enough injectives.  
-LEM	  The collection of fpqc coverings on the category of schemes satisfies the axioms of site.  
-DEF	  A morphism of schemes is etale if it is smooth of relative dimension 0.  
-LEM	  Any etale covering is an fpqc covering.  
-THM	  Complete local rings are henselian.  
-LEM	  This construction gives the cup product.  
-LEM	  The cone on a morphism of strictly perfect complexes is strictly perfect.  
-LEM	  The total complex associated to the tensor product of two strictly perfect complexes is strictly perfect.  
-LEM	  Colimits and tensor product. <CASES> CASE: A filtered colimit of flat presheaves of modules is flat. A direct sum of flat presheaves of modules is flat. CASE: A filtered colimit of flat sheaves of modules is flat. A direct sum of flat sheaves of modules is flat. </CASES>  
-LEM	  A monomorphism of algebraic stacks is separated and DM. The same is true for immersions of algebraic stacks.  
-LEM	  The base change of a quasi-compact morphism of algebraic stacks by any morphism of algebraic stacks is quasi-compact.  
-LEM	  The composition of a pair of quasi-compact morphisms of algebraic stacks is quasi-compact.  
-LEM	  A closed immersion of algebraic stacks is quasi-compact.  
-LEM	  Compositions of affine morphisms of algebraic stacks are affine.  
-LEM	  Compositions of integral, resp.\ finite morphisms of algebraic stacks are integral, resp.\ finite.  
-LEM	  The base change of a universally open morphism of algebraic stacks by any morphism of algebraic stacks is universally open.  
-LEM	  The composition of a pair of (universally) open morphisms of algebraic stacks is (universally) open.  
-LEM	  The base change of a universally submersive morphism of algebraic stacks by any morphism of algebraic stacks is universally submersive.  
-LEM	  The composition of a pair of (universally) submersive morphisms of algebraic stacks is (universally) submersive.  
-LEM	  The base change of a universally closed morphism of algebraic stacks by any morphism of algebraic stacks is universally closed.  
-LEM	  The composition of a pair of (universally) closed morphisms of algebraic stacks is (universally) closed.  
-LEM	  The base change of a universally injective morphism of algebraic stacks by any morphism of algebraic stacks is universally injective.  
-LEM	  The composition of a pair of universally injective morphisms of algebraic stacks is universally injective.  
-LEM	  The base change of a universal homeomorphism of algebraic stacks by any morphism of algebraic stacks is a universal homeomorphism.  
-LEM	  The composition of a pair of universal homeomorphisms of algebraic stacks is a universal homeomorphism.  
-LEM	  The composition of finite type morphisms is of finite type. The same holds for locally of finite type.  
-LEM	  A base change of a finite type morphism is finite type. The same holds for locally of finite type.  
-LEM	  An immersion is locally of finite type.  
-LEM	  A base change of a locally quasi-finite morphism is locally quasi-finite.  
-LEM	  A composition of a locally quasi-finite morphisms is locally quasi-finite.  
-LEM	  The composition of quasi-finite morphisms is quasi-finite.  
-LEM	  A base change of a quasi-finite morphism is quasi-finite.  
-LEM	  The composition of flat morphisms is flat.  
-LEM	  A base change of a flat morphism is flat.  
-LEM	  The composition of finitely presented morphisms is of finite presentation. The same holds for morphisms which are locally of finite presentation.  
-LEM	  A base change of a finitely presented morphism is of finite presentation. The same holds for morphisms which are locally of finite presentation.  
-LEM	  A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.  
-LEM	  An open immersion is locally of finite presentation.  
-LEM	  The composition of smooth morphisms is smooth.  
-LEM	  A base change of a smooth morphism is smooth.  
-LEM	  A smooth morphism of algebraic stacks is locally of finite presentation.  
-LEM	  The composition of etale morphisms is etale.  
-LEM	  A base change of an etale morphism is etale.  
-LEM	  An open immersion is etale.  
-LEM	  The composition of unramified morphisms is unramified.  
-LEM	  A base change of an unramified morphism is unramified.  
-LEM	  An etale morphism is unramified.  
-LEM	  An immersion is unramified.  
-LEM	  An unramified morphism of algebraic stacks is locally quasi-finite.  
-LEM	  A base change of a proper morphism is proper.  
-LEM	  A composition of proper morphisms is proper.  
-LEM	  A closed immersion of algebraic stacks is a proper morphism of algebraic stacks.  
-LEM	  The base change of a morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion by any morphism of algebraic stacks is a morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion.  
-LEM	  The composition of morphisms of algebraic stacks which satisfy the uniqueness part of the valuative criterion is another morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion.  
-LEM	  The base change of a morphism of algebraic stacks which satisfies the existence part of the valuative criterion by any morphism of algebraic stacks is a morphism of algebraic stacks which satisfies the existence part of the valuative criterion.  
-LEM	  The composition of morphisms of algebraic stacks which satisfy the existence part of the valuative criterion is another morphism of algebraic stacks which satisfies the existence part of the valuative criterion.  
-LEM	  A closed immersion of algebraic stacks satisfies both the existence and uniqueness part of the valuative criterion.  
-LEM	  The composition of local complete intersection morphisms is a local complete intersection.  
-LEM	  A flat base change of a local complete intersection morphism is a local complete intersection morphism.  
-LEM	  Any faithfully flat ring map is universally injective.  
-LEM	  A universally injective etale morphism is an open immersion.  
-LEM	  A surjective and flat morphism is an epimorphism in the category of schemes.  
-DEF	  A groupoid is a category where every morphism is an isomorphism.  
-LEM	  A functor is an equivalence of categories if and only if it is both fully faithful and essentially surjective.  
-DEF	  A category is called discrete if the only morphisms are the identity morphisms.  
-DEF	  Let us call a category a setoid if it is a groupoid where every object has exactly one automorphism: the identity.  
-LEM	  The composition of surjective morphisms is surjective.  
-LEM	  The base change of a surjective morphism is surjective.  
-LEM	  A finite disjoint union of quasi-compact algebraic stacks is a quasi-compact algebraic stack.  
-LEM	  Compositions of monomorphisms of algebraic stacks are monomorphisms.  
-LEM	  [ Monomorphisms of stacks are injective on points. ] A monomorphism of algebraic stacks induces an injective map of sets of points.  
-LEM	  Compositions of immersions of algebraic stacks are immersions. Similarly for closed immersions and open immersions.  
-LEM	  An immersion is a monomorphism.  
-LEM	  Any Zariski covering is an etale covering.  
-LEM	  Any etale covering is a smooth covering, and a fortiori, any Zariski covering is a smooth covering.  
-LEM	  Any smooth covering is a syntomic covering, and a fortiori, any etale or Zariski covering is a syntomic covering.  
-LEM	  Any syntomic covering is an fppf covering, and a fortiori, any smooth, etale, or Zariski covering is an fppf covering.  
-LEM	  A Zariski covering is a ph covering.  
-LEM	  Any fppf covering is an fpqc covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is an fpqc covering.  
-LEM	  A standard fpqc covering is a standard V covering.  
-LEM	  A standard ph covering is a standard V covering.  
-LEM	  Any fpqc covering is a V covering. A fortiori, any fppf, syntomic, smooth, etale or Zariski covering is a V covering. Also, a ph covering is a V covering.  
-LEM	  Any set of big Zariski sites is contained in a common big Zariski site. The same is true, mutatis mutandis, for big fppf and big etale sites.  
-LEM	  A normal local ring with separably closed fraction field is strictly henselian.  
-LEM	  A radicial morphism of algebraic spaces is universally injective.  
-LEM	[David Rydh]  A flat monomorphism of algebraic spaces is representable by schemes.  
-LEM	  A quasi-compact flat surjective monomorphism of algebraic spaces is an isomorphism.  
-LEM	  The property of being a thickening is fpqc local. Similarly for first order thickenings.  
-LEM	  Composition. <CASES> CASE: A composition of formally smooth transformations of functors is formally smooth. CASE: A composition of formally etale transformations of functors is formally etale. CASE: A composition of formally unramified transformations of functors is formally unramified. </CASES>  
-LEM	  A composition of formally unramified morphisms is formally unramified.  
-LEM	  A base change of a formally unramified morphism is formally unramified.  
-LEM	  A composition of formally etale morphisms is formally etale.  
-LEM	  A base change of a formally etale morphism is formally etale.  
-LEM	  An unramified flat morphism is formally etale.  
-LEM	  A composition of formally smooth morphisms is formally smooth.  
-LEM	  A base change of a formally smooth morphism is formally smooth.  
-LEM	  A flat base change of a pseudo-coherent morphism is pseudo-coherent.  
-LEM	  A composition of pseudo-coherent morphisms is pseudo-coherent.  
-LEM	  A pseudo-coherent morphism is locally of finite presentation.  
-LEM	  A flat morphism which is locally of finite presentation is pseudo-coherent.  
-LEM	  A flat base change of a perfect morphism is perfect.  
-LEM	  A composition of perfect morphisms is perfect.  
-LEM	  A flat base change of a local complete intersection morphism is a local complete intersection morphism.  
-LEM	  A composition of local complete intersection morphisms is a local complete intersection morphism.  
-LEM	  ...  
-LEM	  A quasi-regular ideal is finitely generated.  
-LEM	  A composition of formally smooth continuous homomorphisms of linearly topologized rings is formally smooth.  
-PRP	  A Noetherian complete local ring is a G-ring.  
-LEM	  Any localization of a finite type ring over a (quasi-)excellent ring is (quasi-)excellent.  
-LEM	  A quasi-excellent ring is Nagata.  
-LEM	  A finite type ring map of Noetherian rings is pseudo-coherent.  
-LEM	  A ring map which is flat and of finite presentation is perfect.  
-LEM	  A local complete intersection homomorphism is perfect.  
-LEM	  A product of fields is an absolutely flat ring.  
-LEM	  A regular local ring is a UFD.  
-LEM	  An elementary divisor domain is Bezout.  
-LEM	  The localization of a Bezout domain is Bezout. Every local ring of a Bezout domain is a valuation ring. A local domain is Bezout if and only if it is a valuation ring.  
-LEM	  The sum of two effective Cartier divisors is an effective Cartier divisor.  
-LEM	  We have the following compatibilities between the operations above: (1) base change is functorial, (2) restriction is a combination of base change and (a special case of) flat pullback, (3) flat pullback commutes with base change, (4) flat pullback is functorial, (5) proper pushforward commutes with base change, (6) proper pushforward is functorial, and (7) proper pushforward commutes with flat pullback.  
-LEM	  Any locally Noetherian decent algebraic space is quasi-separated.  
-LEM	[David Rydh]  A locally separated algebraic space is decent.  
-LEM	  The composition of morphisms representable by algebraic spaces is representable by algebraic spaces. The same holds for representable (by schemes).  
-LEM	  A base change of a morphism representable by algebraic spaces is representable by algebraic spaces. The same holds for representable (by schemes).  
-LEM	  The composition of finite type morphisms is of finite type. The same holds for locally of finite type.  
-LEM	  A base change of a finite type morphism is finite type. The same holds for locally of finite type.  
-LEM	  The composition of two surjective morphisms is a surjective morphism.  
-LEM	  A base change of a surjective morphism is a surjective morphism.  
-LEM	  The composition of two monomorphisms is a monomorphism.  
-LEM	  A base change of a monomorphism is a monomorphism.  
-LEM	  The composition of two closed immersions is a closed immersion.  
-LEM	  A base change of a closed immersion is a closed immersion.  
-LEM	  Proper morphisms of formal algebraic spaces are preserved by base change.  
-LEM	  Every formal algebraic space has a structure sheaf.  
-LEM	  This actually does give a presheaf.  
-LEM	  The category of divided power rings has all limits and they agree with limits in the category of rings.  
-LEM	  The category of divided power rings has all colimits.  
-LEM	  An exact functor of pre-triangulated categories is additive.  
-LEM	  The cone on a morphism of strictly perfect complexes is strictly perfect.  
-LEM	  The total complex associated to the tensor product of two strictly perfect complexes is strictly perfect.  
-LEM	  [ Noetherian property is stable by passage to finite type extension and localization. ] Any finitely generated ring over a Noetherian ring is Noetherian. Any localization of a Noetherian ring is Noetherian.  
-LEM	  Any surjective endomorphism of a Noetherian ring is an isomorphism.  
-LEM	  Any algebra of finite type over a field is Jacobson.  
-LEM	  A finite ring map is integral.  
-LEM	  Any localization of a normal domain is normal.  
-LEM	  A principal ideal domain is normal.  
-LEM	  A normal ring is integrally closed in its total ring of fractions.  
-LEM	  A localization of a normal ring is a normal ring.  
-LEM	  A finite product of normal rings is normal.  
-LEM	  A flat local ring homomorphism of local rings is faithfully flat.  
-LEM	  A separably generated field extension is separable.  
-LEM	  A valuation ring is Noetherian if and only if it is a discrete valuation ring or a field.  
-LEM	  Any ring with finitely many maximal ideals and locally nilpotent Jacobson radical is the product of its localizations at its maximal ideals. Also, all primes are maximal.  
-LEM	  The class of ring maps which are essentially of finite type is preserved under composition. Similarly for essentially of finite presentation.  
-LEM	  The class of ring maps which are essentially of finite type is preserved by base change. Similarly for essentially of finite presentation.  
-LEM	  For a reduced ring the weakly associated primes of the ring are the minimal primes.  
-LEM	  Any two homotopic maps of complexes induce the same maps on (co)homology groups.  
-LEM	  A direct sum of projective modules is projective.  
-LEM	  A Noetherian ring is a coherent ring.  
-LEM	  Any localization of a catenary ring is catenary. Any localization of a Noetherian universally catenary ring is universally catenary.  
-LEM	  Any quotient of a catenary ring is catenary. Any quotient of a Noetherian universally catenary ring is universally catenary.  
-LEM	  Any regular local ring is a domain.  
-LEM	  The composition of two epimorphisms of rings is an epimorphism.  
-LEM	  A faithfully flat epimorphism is an isomorphism.  
-LEM	  A UFD satisfies the ascending chain condition for principal ideals.  
-LEM	  A unique factorization domain is normal.  
-LEM	  A principal ideal domain is a unique factorization domain.  
-LEM	  A PID is a Dedekind domain.  
-LEM	  A composition of quasi-finite ring maps is quasi-finite.  
-LEM	  Any base change of a syntomic map is syntomic.  
-LEM	  A relative global complete intersection is syntomic, i.e., flat.  
-LEM	  A composition of standard smooth ring maps is standard smooth.  
-LEM	  A composition of smooth ring maps is smooth.  
-LEM	  A composition of formally smooth ring maps is formally smooth.  
-LEM	  An etale ring map is quasi-finite.  
-LEM	  A filtered colimit of (strictly) henselian local rings along local homomorphisms is (strictly) henselian.  
-LEM	  A regular ring is normal.  
-LEM	  A Noetherian domain whose fraction field has characteristic zero is N-1 if and only if it is N-2 (i.e., Japanese).  
-LEM	  A localization of a Nagata ring is a Nagata ring.  
-LEM	  A Noetherian complete local ring is a Nagata ring.  
-PRP	  Sections of unramified morphisms. <CASES> CASE: Any section of an unramified morphism is an open immersion. CASE: Any section of a separated morphism is a closed immersion. CASE: Any section of an unramified separated morphism is open and closed. </CASES>  
-THM	  A faithfully flat quasi-compact morphism is a quotient map for the Zariski topology.  
-LEM	  The composition of surjective morphisms is surjective.  
-LEM	  The base change of a surjective morphism is surjective.  
-LEM	  The base change of a universally open morphism of algebraic spaces by any morphism of algebraic spaces is universally open.  
-LEM	  The composition of a pair of (universally) open morphisms of algebraic spaces is (universally) open.  
-LEM	  The base change of a universally submersive morphism of algebraic spaces by any morphism of algebraic spaces is universally submersive.  
-LEM	  The composition of a pair of (universally) submersive morphisms of algebraic spaces is (universally) submersive.  
-LEM	  The base change of a quasi-compact morphism of algebraic spaces by any morphism of algebraic spaces is quasi-compact.  
-LEM	  The composition of a pair of quasi-compact morphisms of algebraic spaces is quasi-compact.  
-LEM	  The base change of a universally closed morphism of algebraic spaces by any morphism of algebraic spaces is universally closed.  
-LEM	  The composition of a pair of (universally) closed morphisms of algebraic spaces is (universally) closed.  
-LEM	  A monomorphism of algebraic spaces is separated.  
-LEM	  A composition of monomorphisms is a monomorphism.  
-LEM	  The base change of a monomorphism is a monomorphism.  
-LEM	  An immersion of algebraic spaces is a monomorphism. In particular, any immersion is separated.  
-LEM	  A closed immersion of algebraic spaces is quasi-compact.  
-LEM	  A closed immersion of algebraic spaces is separated.  
-LEM	  The base change of a universally injective morphism is universally injective.  
-LEM	  A composition of universally injective morphisms is universally injective.  
-LEM	  The composition of affine morphisms is affine.  
-LEM	  The base change of an affine morphism is affine.  
-LEM	  A closed immersion is affine.  
-LEM	  The composition of quasi-affine morphisms is quasi-affine.  
-LEM	  The base change of a quasi-affine morphism is quasi-affine.  
-LEM	  The composition of finite type morphisms is of finite type. The same holds for locally of finite type.  
-LEM	  A base change of a finite type morphism is finite type. The same holds for locally of finite type.  
-LEM	  An immersion is locally of finite type.  
-LEM	  The composition of quasi-finite morphisms is quasi-finite. The same holds for locally quasi-finite.  
-LEM	  A base change of a quasi-finite morphism is quasi-finite. The same holds for locally quasi-finite.  
-LEM	  An immersion is locally quasi-finite.  
-LEM	  The composition of morphisms of finite presentation is of finite presentation. The same holds for locally of finite presentation.  
-LEM	  A base change of a morphism of finite presentation is of finite presentation. The same holds for locally of finite presentation.  
-LEM	  A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.  
-LEM	  An open immersion of algebraic spaces is locally of finite presentation.  
-LEM	  The composition of flat morphisms is flat.  
-LEM	  The base change of a flat morphism is flat.  
-LEM	  A flat morphism locally of finite presentation is universally open.  
-LEM	  The composition of syntomic morphisms is syntomic.  
-LEM	  The base change of a syntomic morphism is syntomic.  
-LEM	  A syntomic morphism is locally of finite presentation.  
-LEM	  A syntomic morphism is flat.  
-LEM	  A syntomic morphism is universally open.  
-LEM	  The composition of smooth morphisms is smooth.  
-LEM	  The base change of a smooth morphism is smooth.  
-LEM	  A smooth morphism of algebraic spaces is locally of finite presentation.  
-LEM	  A smooth morphism of algebraic spaces is locally of finite type.  
-LEM	  A smooth morphism of algebraic spaces is flat.  
-LEM	  A smooth morphism of algebraic spaces is syntomic.  
-LEM	  The composition of unramified morphisms is unramified.  
-LEM	  The base change of an unramified morphism is unramified.  
-LEM	  An unramified morphism of algebraic spaces is locally of finite type.  
-LEM	  An immersion of algebraic spaces is unramified.  
-LEM	  The composition of two etale morphisms of algebraic spaces is etale.  
-LEM	  The base change of an etale morphism of algebraic spaces by any morphism of algebraic spaces is etale.  
-LEM	  An etale morphism of algebraic spaces is locally quasi-finite.  
-LEM	  An etale morphism of algebraic spaces is smooth.  
-LEM	  An etale morphism of algebraic spaces is flat.  
-LEM	  [ Etale implies locally of finite presentation. ] An etale morphism of algebraic spaces is locally of finite presentation.  
-LEM	  An etale morphism of algebraic spaces is locally of finite type.  
-LEM	  An etale morphism of algebraic spaces is unramified.  
-LEM	  A locally finitely presented, flat, unramified morphism of algebraic spaces is etale.  
-LEM	  A base change of a proper morphism is proper.  
-LEM	  A composition of proper morphisms is proper.  
-LEM	  A closed immersion of algebraic spaces is a proper morphism of algebraic spaces.  
-LEM	  The base change of a morphism of algebraic spaces which satisfies the existence part of (resp.\ uniqueness part of) the valuative criterion by any morphism of algebraic spaces satisfies the existence part of (resp.\ uniqueness part of) the valuative criterion.  
-LEM	  The composition of two morphisms of algebraic spaces which satisfy the (existence part of, resp.\ uniqueness part of) the valuative criterion satisfies the (existence part of, resp.\ uniqueness part of) the valuative criterion.  
-LEM	  The composition of integral (resp.\ finite) morphisms is integral (resp.\ finite).  
-LEM	  The base change of an integral (resp.\ finite) morphism is integral (resp.\ finite).  
-LEM	  A finite morphism of algebraic spaces is integral. An integral morphism of algebraic spaces which is locally of finite type is finite.  
-LEM	  A finite morphism of algebraic spaces is quasi-finite.  
-LEM	  A closed immersion is finite (and a fortiori integral).  
-LEM	  The composition of finite locally free morphisms is finite locally free.  
-LEM	  The base change of a finite locally free morphism is finite locally free.  
-LEM	  The base change of a universal homeomorphism of algebraic spaces by any morphism of algebraic spaces is a universal homeomorphism.  
-LEM	  The composition of a pair of universal homeomorphisms of algebraic spaces is a universal homeomorphism.  
-LEM	  The sum of two effective Cartier divisors is an effective Cartier divisor.  
-LEM	  There exists a quasi-compact and quasi-separated algebraic space which does not contain a quasi-compact dense open subscheme.  
-LEM	  There exists a formally smooth ring map which is not flat.  
-LEM	  There exist formally etale nonflat ring maps.  
-LEM	  There exists a flat group scheme of finite type over the affine line which is not separated.  
-LEM	  There exists a flat group scheme of finite type over the infinite dimensional affine space which is not quasi-separated.  
-LEM	  There exists a group algebraic space of finite type over a field which is not separated (and not even quasi-separated or locally separated).  
-LEM	  The lisse-etale site is not functorial, even for morphisms of schemes.  
-LEM	  There exists an affine formal algebraic space which is not McQuillan.  
-DEF	  A field is a nonzero ring where every nonzero element is invertible. Given a field a subfield is a subring that is itself a field.  
-LEM	  Every exact sequence of modules over a field splits.  
-LEM	  A finite extension of fields is a finitely generated field extension. The converse is not true.  
-THM	  Every field has an algebraic closure.  
-LEM	  Any two algebraic closures of a field are isomorphic.  
-LEM	  The base change of a formally smooth morphism of algebraic stacks by any morphism of algebraic stacks is formally smooth.  
-LEM	  The composition of formally smooth morphisms of algebraic stacks is formally smooth.  
-LEM	  In a Karoubian additive monoidal category every summand of an object which has a left dual has a left dual.  
-LEM	  An abelian variety is an abelian group scheme, i.e., the group law is commutative.  
-DEF	  A topological space is totally disconnected if the connected components are all singletons.  
-LEM	  A composition of quasi-compact maps is quasi-compact.  
-LEM	  A closed subset of a quasi-compact topological space is quasi-compact.  
-LEM	  A quasi-compact locally Noetherian space is Noetherian.  
-LEM	  A Hausdorff space is locally quasi-compact if and only if every point has a quasi-compact neighbourhood.  
-LEM	  The category of topological spaces has limits and the forgetful functor to sets commutes with them.  
-THM	[Tychonov]  A product of quasi-compact spaces is quasi-compact.  
-LEM	  The collection of constructible sets is closed under finite intersections, finite unions and complements.  
-LEM	  A finite Jacobson space is discrete. A Jacobson space with finitely many closed points is discrete.  
-DEF	  A topological space is profinite if it is homeomorphic to a limit of a diagram of finite discrete spaces.  
-LEM	  A limit of profinite spaces is profinite.  
-LEM	  The product of two spectral spaces is spectral.  
-LEM	  The inverse limit of a directed inverse system of finite sober topological spaces is a spectral topological space.  
-LEM	  A topological space is spectral if and only if it is a directed inverse limit of finite sober topological spaces.  
-LEM	  The category of topological spaces has colimits and the forgetful functor to sets commutes with them.  
-LEM	  The category of topological groups has limits and limits commute with the forgetful functors to (a) the category of topological spaces and (b) the category of groups.  
-LEM	  The category of topological groups has colimits and colimits commute with the forgetful functor to the category of groups.  
-LEM	  The category of topological rings has limits and limits commute with the forgetful functors to (a) the category of topological spaces and (b) the category of rings.  
-LEM	  The category of topological rings has colimits and colimits commute with the forgetful functor to the category of rings.  
-LEM	  The Brauer group of an algebraically closed field is zero.  
-LEM	  The property of being a thickening is fpqc local. Similarly for first order thickenings.  
-LEM	  A composition of formally unramified morphisms is formally unramified.  
-LEM	  A base change of a formally unramified morphism is formally unramified.  
-LEM	  A composition of formally etale morphisms is formally etale.  
-LEM	  A base change of a formally etale morphism is formally etale.  
-LEM	  An unramified flat morphism is formally etale.  
-LEM	  A composition of formally smooth morphisms is formally smooth.  
-LEM	  A base change of a formally smooth morphism is formally smooth.  
-LEM	  A smooth morphism is normal.  
-LEM	  A smooth morphism is regular.  
-LEM	  An fppf covering of schemes is a ph covering.  
-LEM	  A flat base change of a pseudo-coherent morphism is pseudo-coherent.  
-LEM	  A composition of pseudo-coherent morphisms of schemes is pseudo-coherent.  
-LEM	  A pseudo-coherent morphism is locally of finite presentation.  
-LEM	  A flat morphism which is locally of finite presentation is pseudo-coherent.  
-LEM	  A flat base change of a perfect morphism is perfect.  
-LEM	  A composition of perfect morphisms of schemes is perfect.  
-LEM	  A regular immersion of schemes is perfect. A Koszul-regular immersion of schemes is perfect.  
-LEM	  A flat base change of a local complete intersection morphism is a local complete intersection morphism.  
-LEM	  A composition of local complete intersection morphisms is a local complete intersection morphism.  
-LEM	  A regular immersion of schemes is a local complete intersection morphism. A Koszul-regular immersion of schemes is a local complete intersection morphism.  
-LEM	  The property of being an ind-quasi-affine morphism is stable under composition.  
-LEM	  Any quasi-affine morphism is ind-quasi-affine. Any immersion is ind-quasi-affine.  
-LEM	  The property of being ind-quasi-affine is stable under base change.  
-LEM	  The property of being ind-quasi-affine is fpqc local on the base.  
-LEM	  A separated locally quasi-finite morphism of schemes is ind-quasi-affine.  
-LEM	  The base change of a closed immersion is a closed immersion.  
-LEM	  A composition of closed immersions is a closed immersion.  
-LEM	  A closed immersion is quasi-compact.  
-LEM	  A closed immersion is separated.  
-DEF	  A morphism of schemes is said to be surjective if it is surjective on underlying topological spaces.  
-LEM	  The composition of surjective morphisms is surjective.  
-LEM	  The base change of a surjective morphism is surjective.  
-LEM	  A universally injective morphism is separated.  
-LEM	  A base change of a universally injective morphism is universally injective.  
-LEM	  A composition of radicial morphisms is radicial, and so the same holds for the equivalent condition of being universally injective.  
-LEM	  An affine morphism is separated and quasi-compact.  
-LEM	  The composition of affine morphisms is affine.  
-LEM	  The base change of an affine morphism is affine.  
-LEM	  A closed immersion is affine.  
-LEM	  A morphism between affine schemes is affine.  
-LEM	  A quasi-affine morphism is separated and quasi-compact.  
-LEM	  The composition of quasi-affine morphisms is quasi-affine.  
-LEM	  The base change of a quasi-affine morphism is quasi-affine.  
-LEM	  A quasi-compact immersion is quasi-affine.  
-LEM	  The composition of two morphisms which are locally of finite type is locally of finite type. The same is true for morphisms of finite type.  
-LEM	  The base change of a morphism which is locally of finite type is locally of finite type. The same is true for morphisms of finite type.  
-LEM	  A closed immersion is of finite type. An immersion is locally of finite type.  
-LEM	  The composition of two morphisms which are locally quasi-finite is locally quasi-finite. The same is true for quasi-finite morphisms.  
-LEM	  Any immersion is locally quasi-finite.  
-LEM	  The composition of two morphisms which are locally of finite presentation is locally of finite presentation. The same is true for morphisms of finite presentation.  
-LEM	  The base change of a morphism which is locally of finite presentation is locally of finite presentation. The same is true for morphisms of finite presentation.  
-LEM	  Any open immersion is locally of finite presentation.  
-LEM	  Any open immersion is of finite presentation if and only if it is quasi-compact.  
-LEM	  A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.  
-LEM	  A composition of (universally) open morphisms is (universally) open.  
-LEM	  The base change of a universally submersive morphism of schemes by any morphism of schemes is universally submersive.  
-LEM	  The composition of a pair of (universally) submersive morphisms of schemes is (universally) submersive.  
-LEM	  The composition of flat morphisms is flat.  
-LEM	  The base change of a flat morphism is flat.  
-LEM	  A flat morphism locally of finite presentation is universally open.  
-LEM	  A flat closed immersion of finite presentation is the open immersion of an open and closed subscheme.  
-LEM	  The composition of two morphisms which are syntomic is syntomic.  
-LEM	  The base change of a morphism which is syntomic is syntomic.  
-LEM	  Any open immersion is syntomic.  
-LEM	  A syntomic morphism is locally of finite presentation.  
-LEM	  A syntomic morphism is flat.  
-LEM	  A syntomic morphism is universally open.  
-LEM	  The composition of two morphisms which are smooth is smooth.  
-LEM	  The base change of a morphism which is smooth is smooth.  
-LEM	  Any open immersion is smooth.  
-LEM	  A smooth morphism is syntomic.  
-LEM	  A smooth morphism is locally of finite presentation.  
-LEM	  A smooth morphism is flat.  
-LEM	  A smooth morphism is universally open.  
-LEM	  The composition of two morphisms which are unramified is unramified. The same holds for G-unramified morphisms.  
-LEM	  The base change of a morphism which is unramified is unramified. The same holds for G-unramified morphisms.  
-LEM	  Any open immersion is G-unramified.  
-LEM	  An unramified morphism is locally of finite type. A G-unramified morphism is locally of finite presentation.  
-LEM	  The composition of two morphisms which are etale is etale.  
-LEM	  The base change of a morphism which is etale is etale.  
-LEM	  An etale morphism is locally quasi-finite.  
-LEM	  Any open immersion is etale.  
-LEM	  An etale morphism is syntomic.  
-LEM	  An etale morphism is locally of finite presentation.  
-LEM	  An etale morphism is flat.  
-LEM	  An etale morphism is open.  
-LEM	  A morphism is etale at a point if and only if it is flat and G-unramified at that point. A morphism is etale if and only if it is flat and G-unramified.  
-LEM	  A base change of a quasi-projective morphism is quasi-projective.  
-LEM	  A H-quasi-projective morphism is quasi-projective.  
-LEM	  The composition of proper morphisms is proper. The same is true for universally closed morphisms.  
-LEM	  The base change of a proper morphism is proper. The same is true for universally closed morphisms.  
-LEM	  A closed immersion is proper, hence a fortiori universally closed.  
-LEM	  An H-projective morphism is H-quasi-projective. An H-projective morphism is projective.  
-LEM	  A locally projective morphism is proper.  
-LEM	  A composition of H-projective morphisms is H-projective.  
-LEM	  A base change of a H-projective morphism is H-projective.  
-LEM	  A base change of a (locally) projective morphism is (locally) projective.  
-LEM	  A projective morphism is quasi-projective.  
-LEM	  A finite morphism is integral. An integral morphism which is locally of finite type is finite.  
-LEM	  A composition of finite morphisms is finite. Same is true for integral morphisms.  
-LEM	  A base change of a finite morphism is finite. Same is true for integral morphisms.  
-LEM	  A finite morphism is quasi-finite.  
-LEM	  A closed immersion is finite (and a fortiori integral).  
-LEM	  A finite morphism is projective.  
-LEM	  The base change of a universal homeomorphism of schemes by any morphism of schemes is a universal homeomorphism.  
-LEM	  The composition of a pair of universal homeomorphisms of schemes is a universal homeomorphism.  
-LEM	  A seminormal scheme or ring is reduced. A fortiori the same is true for absolutely weakly normal schemes or rings.  
-LEM	  A composition of finite locally free morphisms is finite locally free.  
-LEM	  A base change of a finite locally free morphism is finite locally free.  
-LEM	  An immersion has universally bounded fibres.  
-PRP	  Assume given data (D0), (D1), and (D2') satisfying axioms (A1) -- (A8). Then we have a Weil cohomology theory.  
-LEM	  A scheme is very reasonable.  
-LEM	  An algebraic space which is Zariski locally quasi-separated is very reasonable. In particular any quasi-separated algebraic space is very reasonable.  
+A locally Noetherian scheme is quasi-separated.
+Any locally closed subscheme of a (locally) Noetherian scheme is (locally) Noetherian.
+A Noetherian scheme has a finite number of irreducible components.
+Any nonempty locally Noetherian scheme has a closed point. Any nonempty closed subset of a locally Noetherian scheme has a closed point. Equivalently, any point of a locally Noetherian scheme specializes to a closed point.
+A normal scheme is reduced.
+A regular scheme is normal.
+A Nagata scheme is locally Noetherian.
+A normal scheme is geometrically unibranch.
+For abelian presheaves on a category there is a functorial injective embedding.
+A Grothendieck abelian category has Ab3*.
+A finite disjoint union of quasi-compact algebraic spaces is a quasi-compact algebraic space.
+The composition of two etale morphisms of algebraic spaces is etale.
+The base change of an etale morphism of algebraic spaces by any morphism of algebraic spaces is etale.
+The support of a sheaf of rings on the small etale site of an algebraic space is closed.
+A regular algebraic space is normal.
+Any etale covering and any Zariski covering is a pro-etale covering.
+The composition of two trivial Kan fibrations is a trivial Kan fibration.
+A filtered colimit of trivial Kan fibrations is a trivial Kan fibration.
+The composition of two Kan fibrations is a Kan fibration.
+A Gorenstein scheme is Cohen-Macaulay.
+A regular scheme is Gorenstein.
+A Gorenstein morphism is Cohen-Macaulay.
+A syntomic morphism is Gorenstein. Equivalently a flat local complete intersection morphism is Gorenstein.
+Any Zariski covering is an etale covering.
+Any etale covering is a smooth covering, and a fortiori, any Zariski covering is a smooth covering.
+Any smooth covering is a syntomic covering, and a fortiori, any etale or Zariski covering is a syntomic covering.
+Any syntomic covering is an fppf covering, and a fortiori, any smooth, etale, or Zariski covering is an fppf covering.
+Any fppf covering is a ph covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is a ph covering.
+Any fppf covering is an fpqc covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is an fpqc covering.
+A rig-etale morphism of locally Noetherian formal algebraic spaces is locally of finite type.
+A rig-etale morphism of locally Noetherian formal algebraic spaces is rig-smooth.
+[Popescu]  Any regular homomorphism of Noetherian rings is a filtered colimit of smooth ring maps.
+The category of affine schemes is equivalent to the opposite of the category of rings. The equivalence is given by the functor that associates to an affine scheme the global sections of its structure sheaf.
+Being quasi-compact is a property of morphisms of schemes over a base which is preserved under arbitrary base change.
+The composition of quasi-compact morphisms is quasi-compact.
+A closed immersion is quasi-compact.
+The diagonal morphism of a morphism between affines is closed.
+An affine scheme is separated. A morphism from an affine scheme to another scheme is separated.
+A monomorphism of schemes is separated.
+A composition of monomorphisms is a monomorphism.
+The base change of a monomorphism is a monomorphism.
+An immersion of schemes is a monomorphism. In particular, any immersion is separated.
+A composition of immersions of schemes is an immersion, a composition of closed immersions of schemes is a closed immersion, and a composition of open immersions of schemes is an open immersion.
+An fppf covering is a h covering. Hence syntomic, smooth, etale, and Zariski coverings are h coverings as well.
+A Gorenstein ring is Cohen-Macaulay.
+A regular local ring is Gorenstein. A regular ring is Gorenstein.
+The category of abelian sheaves on a site is an abelian category which has enough injectives.
+The collection of fpqc coverings on the category of schemes satisfies the axioms of site.
+A morphism of schemes is etale if it is smooth of relative dimension 0.
+Any etale covering is an fpqc covering.
+Complete local rings are henselian.
+This construction gives the cup product.
+The cone on a morphism of strictly perfect complexes is strictly perfect.
+The total complex associated to the tensor product of two strictly perfect complexes is strictly perfect.
+A monomorphism of algebraic stacks is separated and DM. The same is true for immersions of algebraic stacks.
+The base change of a quasi-compact morphism of algebraic stacks by any morphism of algebraic stacks is quasi-compact.
+The composition of a pair of quasi-compact morphisms of algebraic stacks is quasi-compact.
+A closed immersion of algebraic stacks is quasi-compact.
+Compositions of affine morphisms of algebraic stacks are affine.
+Compositions of integral, resp.\ finite morphisms of algebraic stacks are integral, resp.\ finite.
+The base change of a universally open morphism of algebraic stacks by any morphism of algebraic stacks is universally open.
+The composition of a pair of (universally) open morphisms of algebraic stacks is (universally) open.
+The base change of a universally submersive morphism of algebraic stacks by any morphism of algebraic stacks is universally submersive.
+The composition of a pair of (universally) submersive morphisms of algebraic stacks is (universally) submersive.
+The base change of a universally closed morphism of algebraic stacks by any morphism of algebraic stacks is universally closed.
+The composition of a pair of (universally) closed morphisms of algebraic stacks is (universally) closed.
+The base change of a universally injective morphism of algebraic stacks by any morphism of algebraic stacks is universally injective.
+The composition of a pair of universally injective morphisms of algebraic stacks is universally injective.
+The base change of a universal homeomorphism of algebraic stacks by any morphism of algebraic stacks is a universal homeomorphism.
+The composition of a pair of universal homeomorphisms of algebraic stacks is a universal homeomorphism.
+The composition of finite type morphisms is of finite type. The same holds for locally of finite type.
+A base change of a finite type morphism is finite type. The same holds for locally of finite type.
+An immersion is locally of finite type.
+A base change of a locally quasi-finite morphism is locally quasi-finite.
+A composition of a locally quasi-finite morphisms is locally quasi-finite.
+The composition of quasi-finite morphisms is quasi-finite.
+A base change of a quasi-finite morphism is quasi-finite.
+The composition of flat morphisms is flat.
+A base change of a flat morphism is flat.
+The composition of finitely presented morphisms is of finite presentation. The same holds for morphisms which are locally of finite presentation.
+A base change of a finitely presented morphism is of finite presentation. The same holds for morphisms which are locally of finite presentation.
+A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.
+An open immersion is locally of finite presentation.
+The composition of smooth morphisms is smooth.
+A base change of a smooth morphism is smooth.
+A smooth morphism of algebraic stacks is locally of finite presentation.
+The composition of etale morphisms is etale.
+A base change of an etale morphism is etale.
+An open immersion is etale.
+The composition of unramified morphisms is unramified.
+A base change of an unramified morphism is unramified.
+An etale morphism is unramified.
+An immersion is unramified.
+An unramified morphism of algebraic stacks is locally quasi-finite.
+A base change of a proper morphism is proper.
+A composition of proper morphisms is proper.
+A closed immersion of algebraic stacks is a proper morphism of algebraic stacks.
+The base change of a morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion by any morphism of algebraic stacks is a morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion.
+The composition of morphisms of algebraic stacks which satisfy the uniqueness part of the valuative criterion is another morphism of algebraic stacks which satisfies the uniqueness part of the valuative criterion.
+The base change of a morphism of algebraic stacks which satisfies the existence part of the valuative criterion by any morphism of algebraic stacks is a morphism of algebraic stacks which satisfies the existence part of the valuative criterion.
+The composition of morphisms of algebraic stacks which satisfy the existence part of the valuative criterion is another morphism of algebraic stacks which satisfies the existence part of the valuative criterion.
+A closed immersion of algebraic stacks satisfies both the existence and uniqueness part of the valuative criterion.
+The composition of local complete intersection morphisms is a local complete intersection.
+A flat base change of a local complete intersection morphism is a local complete intersection morphism.
+Any faithfully flat ring map is universally injective.
+A universally injective etale morphism is an open immersion.
+A surjective and flat morphism is an epimorphism in the category of schemes.
+A groupoid is a category where every morphism is an isomorphism.
+A functor is an equivalence of categories if and only if it is both fully faithful and essentially surjective.
+A category is called discrete if the only morphisms are the identity morphisms.
+Let us call a category a setoid if it is a groupoid where every object has exactly one automorphism: the identity.
+The composition of surjective morphisms is surjective.
+The base change of a surjective morphism is surjective.
+A finite disjoint union of quasi-compact algebraic stacks is a quasi-compact algebraic stack.
+Compositions of monomorphisms of algebraic stacks are monomorphisms.
+[ Monomorphisms of stacks are injective on points. ] A monomorphism of algebraic stacks induces an injective map of sets of points.
+Compositions of immersions of algebraic stacks are immersions. Similarly for closed immersions and open immersions.
+An immersion is a monomorphism.
+Any Zariski covering is an etale covering.
+Any etale covering is a smooth covering, and a fortiori, any Zariski covering is a smooth covering.
+Any smooth covering is a syntomic covering, and a fortiori, any etale or Zariski covering is a syntomic covering.
+Any syntomic covering is an fppf covering, and a fortiori, any smooth, etale, or Zariski covering is an fppf covering.
+A Zariski covering is a ph covering.
+Any fppf covering is an fpqc covering, and a fortiori, any syntomic, smooth, etale or Zariski covering is an fpqc covering.
+A standard fpqc covering is a standard V covering.
+A standard ph covering is a standard V covering.
+Any fpqc covering is a V covering. A fortiori, any fppf, syntomic, smooth, etale or Zariski covering is a V covering. Also, a ph covering is a V covering.
+Any set of big Zariski sites is contained in a common big Zariski site. The same is true, mutatis mutandis, for big fppf and big etale sites.
+A normal local ring with separably closed fraction field is strictly henselian.
+A radicial morphism of algebraic spaces is universally injective.
+[David Rydh]  A flat monomorphism of algebraic spaces is representable by schemes.
+A quasi-compact flat surjective monomorphism of algebraic spaces is an isomorphism.
+The property of being a thickening is fpqc local. Similarly for first order thickenings.
+A composition of formally unramified morphisms is formally unramified.
+A base change of a formally unramified morphism is formally unramified.
+A composition of formally etale morphisms is formally etale.
+A base change of a formally etale morphism is formally etale.
+An unramified flat morphism is formally etale.
+A composition of formally smooth morphisms is formally smooth.
+A base change of a formally smooth morphism is formally smooth.
+A flat base change of a pseudo-coherent morphism is pseudo-coherent.
+A composition of pseudo-coherent morphisms is pseudo-coherent.
+A pseudo-coherent morphism is locally of finite presentation.
+A flat morphism which is locally of finite presentation is pseudo-coherent.
+A flat base change of a perfect morphism is perfect.
+A composition of perfect morphisms is perfect.
+A flat base change of a local complete intersection morphism is a local complete intersection morphism.
+A composition of local complete intersection morphisms is a local complete intersection morphism.
+...
+A quasi-regular ideal is finitely generated.
+A composition of formally smooth continuous homomorphisms of linearly topologized rings is formally smooth.
+A Noetherian complete local ring is a G-ring.
+Any localization of a finite type ring over a (quasi-)excellent ring is (quasi-)excellent.
+A quasi-excellent ring is Nagata.
+A finite type ring map of Noetherian rings is pseudo-coherent.
+A ring map which is flat and of finite presentation is perfect.
+A local complete intersection homomorphism is perfect.
+A product of fields is an absolutely flat ring.
+A regular local ring is a UFD.
+An elementary divisor domain is Bezout.
+The localization of a Bezout domain is Bezout. Every local ring of a Bezout domain is a valuation ring. A local domain is Bezout if and only if it is a valuation ring.
+The sum of two effective Cartier divisors is an effective Cartier divisor.
+We have the following compatibilities between the operations above: (1) base change is functorial, (2) restriction is a combination of base change and (a special case of) flat pullback, (3) flat pullback commutes with base change, (4) flat pullback is functorial, (5) proper pushforward commutes with base change, (6) proper pushforward is functorial, and (7) proper pushforward commutes with flat pullback.
+Any locally Noetherian decent algebraic space is quasi-separated.
+[David Rydh]  A locally separated algebraic space is decent.
+The composition of morphisms representable by algebraic spaces is representable by algebraic spaces. The same holds for representable (by schemes).
+A base change of a morphism representable by algebraic spaces is representable by algebraic spaces. The same holds for representable (by schemes).
+The composition of finite type morphisms is of finite type. The same holds for locally of finite type.
+A base change of a finite type morphism is finite type. The same holds for locally of finite type.
+The composition of two surjective morphisms is a surjective morphism.
+A base change of a surjective morphism is a surjective morphism.
+The composition of two monomorphisms is a monomorphism.
+A base change of a monomorphism is a monomorphism.
+The composition of two closed immersions is a closed immersion.
+A base change of a closed immersion is a closed immersion.
+Proper morphisms of formal algebraic spaces are preserved by base change.
+Every formal algebraic space has a structure sheaf.
+This actually does give a presheaf.
+The category of divided power rings has all limits and they agree with limits in the category of rings.
+The category of divided power rings has all colimits.
+An exact functor of pre-triangulated categories is additive.
+The cone on a morphism of strictly perfect complexes is strictly perfect.
+The total complex associated to the tensor product of two strictly perfect complexes is strictly perfect.
+[ Noetherian property is stable by passage to finite type extension and localization. ] Any finitely generated ring over a Noetherian ring is Noetherian. Any localization of a Noetherian ring is Noetherian.
+Any surjective endomorphism of a Noetherian ring is an isomorphism.
+Any algebra of finite type over a field is Jacobson.
+A finite ring map is integral.
+Any localization of a normal domain is normal.
+A principal ideal domain is normal.
+A normal ring is integrally closed in its total ring of fractions.
+A localization of a normal ring is a normal ring.
+A finite product of normal rings is normal.
+A flat local ring homomorphism of local rings is faithfully flat.
+A separably generated field extension is separable.
+A valuation ring is Noetherian if and only if it is a discrete valuation ring or a field.
+Any ring with finitely many maximal ideals and locally nilpotent Jacobson radical is the product of its localizations at its maximal ideals. Also, all primes are maximal.
+The class of ring maps which are essentially of finite type is preserved under composition. Similarly for essentially of finite presentation.
+The class of ring maps which are essentially of finite type is preserved by base change. Similarly for essentially of finite presentation.
+For a reduced ring the weakly associated primes of the ring are the minimal primes.
+Any two homotopic maps of complexes induce the same maps on (co)homology groups.
+A direct sum of projective modules is projective.
+A Noetherian ring is a coherent ring.
+Any localization of a catenary ring is catenary. Any localization of a Noetherian universally catenary ring is universally catenary.
+Any quotient of a catenary ring is catenary. Any quotient of a Noetherian universally catenary ring is universally catenary.
+Any regular local ring is a domain.
+The composition of two epimorphisms of rings is an epimorphism.
+A faithfully flat epimorphism is an isomorphism.
+A UFD satisfies the ascending chain condition for principal ideals.
+A unique factorization domain is normal.
+A principal ideal domain is a unique factorization domain.
+A PID is a Dedekind domain.
+A composition of quasi-finite ring maps is quasi-finite.
+Any base change of a syntomic map is syntomic.
+A relative global complete intersection is syntomic, i.e., flat.
+A composition of standard smooth ring maps is standard smooth.
+A composition of smooth ring maps is smooth.
+A composition of formally smooth ring maps is formally smooth.
+An etale ring map is quasi-finite.
+A filtered colimit of (strictly) henselian local rings along local homomorphisms is (strictly) henselian.
+A regular ring is normal.
+A Noetherian domain whose fraction field has characteristic zero is N-1 if and only if it is N-2 (i.e., Japanese).
+A localization of a Nagata ring is a Nagata ring.
+A Noetherian complete local ring is a Nagata ring.
+A faithfully flat quasi-compact morphism is a quotient map for the Zariski topology.
+The composition of surjective morphisms is surjective.
+The base change of a surjective morphism is surjective.
+The base change of a universally open morphism of algebraic spaces by any morphism of algebraic spaces is universally open.
+The composition of a pair of (universally) open morphisms of algebraic spaces is (universally) open.
+The base change of a universally submersive morphism of algebraic spaces by any morphism of algebraic spaces is universally submersive.
+The composition of a pair of (universally) submersive morphisms of algebraic spaces is (universally) submersive.
+The base change of a quasi-compact morphism of algebraic spaces by any morphism of algebraic spaces is quasi-compact.
+The composition of a pair of quasi-compact morphisms of algebraic spaces is quasi-compact.
+The base change of a universally closed morphism of algebraic spaces by any morphism of algebraic spaces is universally closed.
+The composition of a pair of (universally) closed morphisms of algebraic spaces is (universally) closed.
+A monomorphism of algebraic spaces is separated.
+A composition of monomorphisms is a monomorphism.
+The base change of a monomorphism is a monomorphism.
+An immersion of algebraic spaces is a monomorphism. In particular, any immersion is separated.
+A closed immersion of algebraic spaces is quasi-compact.
+A closed immersion of algebraic spaces is separated.
+The base change of a universally injective morphism is universally injective.
+A composition of universally injective morphisms is universally injective.
+The composition of affine morphisms is affine.
+The base change of an affine morphism is affine.
+A closed immersion is affine.
+The composition of quasi-affine morphisms is quasi-affine.
+The base change of a quasi-affine morphism is quasi-affine.
+The composition of finite type morphisms is of finite type. The same holds for locally of finite type.
+A base change of a finite type morphism is finite type. The same holds for locally of finite type.
+An immersion is locally of finite type.
+The composition of quasi-finite morphisms is quasi-finite. The same holds for locally quasi-finite.
+A base change of a quasi-finite morphism is quasi-finite. The same holds for locally quasi-finite.
+An immersion is locally quasi-finite.
+The composition of morphisms of finite presentation is of finite presentation. The same holds for locally of finite presentation.
+A base change of a morphism of finite presentation is of finite presentation. The same holds for locally of finite presentation.
+A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.
+An open immersion of algebraic spaces is locally of finite presentation.
+The composition of flat morphisms is flat.
+The base change of a flat morphism is flat.
+A flat morphism locally of finite presentation is universally open.
+The composition of syntomic morphisms is syntomic.
+The base change of a syntomic morphism is syntomic.
+A syntomic morphism is locally of finite presentation.
+A syntomic morphism is flat.
+A syntomic morphism is universally open.
+The composition of smooth morphisms is smooth.
+The base change of a smooth morphism is smooth.
+A smooth morphism of algebraic spaces is locally of finite presentation.
+A smooth morphism of algebraic spaces is locally of finite type.
+A smooth morphism of algebraic spaces is flat.
+A smooth morphism of algebraic spaces is syntomic.
+The composition of unramified morphisms is unramified.
+The base change of an unramified morphism is unramified.
+An unramified morphism of algebraic spaces is locally of finite type.
+An immersion of algebraic spaces is unramified.
+The composition of two etale morphisms of algebraic spaces is etale.
+The base change of an etale morphism of algebraic spaces by any morphism of algebraic spaces is etale.
+An etale morphism of algebraic spaces is locally quasi-finite.
+An etale morphism of algebraic spaces is smooth.
+An etale morphism of algebraic spaces is flat.
+[ Etale implies locally of finite presentation. ] An etale morphism of algebraic spaces is locally of finite presentation.
+An etale morphism of algebraic spaces is locally of finite type.
+An etale morphism of algebraic spaces is unramified.
+A locally finitely presented, flat, unramified morphism of algebraic spaces is etale.
+A base change of a proper morphism is proper.
+A composition of proper morphisms is proper.
+A closed immersion of algebraic spaces is a proper morphism of algebraic spaces.
+The base change of a morphism of algebraic spaces which satisfies the existence part of (resp.\ uniqueness part of) the valuative criterion by any morphism of algebraic spaces satisfies the existence part of (resp.\ uniqueness part of) the valuative criterion.
+The composition of two morphisms of algebraic spaces which satisfy the (existence part of, resp.\ uniqueness part of) the valuative criterion satisfies the (existence part of, resp.\ uniqueness part of) the valuative criterion.
+The composition of integral (resp.\ finite) morphisms is integral (resp.\ finite).
+The base change of an integral (resp.\ finite) morphism is integral (resp.\ finite).
+A finite morphism of algebraic spaces is integral. An integral morphism of algebraic spaces which is locally of finite type is finite.
+A finite morphism of algebraic spaces is quasi-finite.
+A closed immersion is finite (and a fortiori integral).
+The composition of finite locally free morphisms is finite locally free.
+The base change of a finite locally free morphism is finite locally free.
+The base change of a universal homeomorphism of algebraic spaces by any morphism of algebraic spaces is a universal homeomorphism.
+The composition of a pair of universal homeomorphisms of algebraic spaces is a universal homeomorphism.
+The sum of two effective Cartier divisors is an effective Cartier divisor.
+There exists a quasi-compact and quasi-separated algebraic space which does not contain a quasi-compact dense open subscheme.
+There exists a formally smooth ring map which is not flat.
+There exist formally etale nonflat ring maps.
+There exists a flat group scheme of finite type over the affine line which is not separated.
+There exists a flat group scheme of finite type over the infinite dimensional affine space which is not quasi-separated.
+There exists a group algebraic space of finite type over a field which is not separated (and not even quasi-separated or locally separated).
+The lisse-etale site is not functorial, even for morphisms of schemes.
+There exists an affine formal algebraic space which is not McQuillan.
+A field is a nonzero ring where every nonzero element is invertible. Given a field a subfield is a subring that is itself a field.
+Every exact sequence of modules over a field splits.
+A finite extension of fields is a finitely generated field extension. The converse is not true.
+Every field has an algebraic closure.
+Any two algebraic closures of a field are isomorphic.
+The base change of a formally smooth morphism of algebraic stacks by any morphism of algebraic stacks is formally smooth.
+The composition of formally smooth morphisms of algebraic stacks is formally smooth.
+In a Karoubian additive monoidal category every summand of an object which has a left dual has a left dual.
+An abelian variety is an abelian group scheme, i.e., the group law is commutative.
+A topological space is totally disconnected if the connected components are all singletons.
+A composition of quasi-compact maps is quasi-compact.
+A closed subset of a quasi-compact topological space is quasi-compact.
+A quasi-compact locally Noetherian space is Noetherian.
+A Hausdorff space is locally quasi-compact if and only if every point has a quasi-compact neighbourhood.
+The category of topological spaces has limits and the forgetful functor to sets commutes with them.
+[Tychonov]  A product of quasi-compact spaces is quasi-compact.
+The collection of constructible sets is closed under finite intersections, finite unions and complements.
+A finite Jacobson space is discrete. A Jacobson space with finitely many closed points is discrete.
+A topological space is profinite if it is homeomorphic to a limit of a diagram of finite discrete spaces.
+A limit of profinite spaces is profinite.
+The product of two spectral spaces is spectral.
+The inverse limit of a directed inverse system of finite sober topological spaces is a spectral topological space.
+A topological space is spectral if and only if it is a directed inverse limit of finite sober topological spaces.
+The category of topological spaces has colimits and the forgetful functor to sets commutes with them.
+The category of topological groups has limits and limits commute with the forgetful functors to (a) the category of topological spaces and (b) the category of groups.
+The category of topological groups has colimits and colimits commute with the forgetful functor to the category of groups.
+The category of topological rings has limits and limits commute with the forgetful functors to (a) the category of topological spaces and (b) the category of rings.
+The category of topological rings has colimits and colimits commute with the forgetful functor to the category of rings.
+The Brauer group of an algebraically closed field is zero.
+The property of being a thickening is fpqc local. Similarly for first order thickenings.
+A composition of formally unramified morphisms is formally unramified.
+A base change of a formally unramified morphism is formally unramified.
+A composition of formally etale morphisms is formally etale.
+A base change of a formally etale morphism is formally etale.
+An unramified flat morphism is formally etale.
+A composition of formally smooth morphisms is formally smooth.
+A base change of a formally smooth morphism is formally smooth.
+A smooth morphism is normal.
+A smooth morphism is regular.
+An fppf covering of schemes is a ph covering.
+A flat base change of a pseudo-coherent morphism is pseudo-coherent.
+A composition of pseudo-coherent morphisms of schemes is pseudo-coherent.
+A pseudo-coherent morphism is locally of finite presentation.
+A flat morphism which is locally of finite presentation is pseudo-coherent.
+A flat base change of a perfect morphism is perfect.
+A composition of perfect morphisms of schemes is perfect.
+A regular immersion of schemes is perfect. A Koszul-regular immersion of schemes is perfect.
+A flat base change of a local complete intersection morphism is a local complete intersection morphism.
+A composition of local complete intersection morphisms is a local complete intersection morphism.
+A regular immersion of schemes is a local complete intersection morphism. A Koszul-regular immersion of schemes is a local complete intersection morphism.
+The property of being an ind-quasi-affine morphism is stable under composition.
+Any quasi-affine morphism is ind-quasi-affine. Any immersion is ind-quasi-affine.
+The property of being ind-quasi-affine is stable under base change.
+The property of being ind-quasi-affine is fpqc local on the base.
+A separated locally quasi-finite morphism of schemes is ind-quasi-affine.
+The base change of a closed immersion is a closed immersion.
+A composition of closed immersions is a closed immersion.
+A closed immersion is quasi-compact.
+A closed immersion is separated.
+A morphism of schemes is said to be surjective if it is surjective on underlying topological spaces.
+The composition of surjective morphisms is surjective.
+The base change of a surjective morphism is surjective.
+A universally injective morphism is separated.
+A base change of a universally injective morphism is universally injective.
+A composition of radicial morphisms is radicial, and so the same holds for the equivalent condition of being universally injective.
+An affine morphism is separated and quasi-compact.
+The composition of affine morphisms is affine.
+The base change of an affine morphism is affine.
+A closed immersion is affine.
+A morphism between affine schemes is affine.
+A quasi-affine morphism is separated and quasi-compact.
+The composition of quasi-affine morphisms is quasi-affine.
+The base change of a quasi-affine morphism is quasi-affine.
+A quasi-compact immersion is quasi-affine.
+The composition of two morphisms which are locally of finite type is locally of finite type. The same is true for morphisms of finite type.
+The base change of a morphism which is locally of finite type is locally of finite type. The same is true for morphisms of finite type.
+A closed immersion is of finite type. An immersion is locally of finite type.
+The composition of two morphisms which are locally quasi-finite is locally quasi-finite. The same is true for quasi-finite morphisms.
+Any immersion is locally quasi-finite.
+The composition of two morphisms which are locally of finite presentation is locally of finite presentation. The same is true for morphisms of finite presentation.
+The base change of a morphism which is locally of finite presentation is locally of finite presentation. The same is true for morphisms of finite presentation.
+Any open immersion is locally of finite presentation.
+Any open immersion is of finite presentation if and only if it is quasi-compact.
+A morphism which is locally of finite presentation is locally of finite type. A morphism of finite presentation is of finite type.
+A composition of (universally) open morphisms is (universally) open.
+The base change of a universally submersive morphism of schemes by any morphism of schemes is universally submersive.
+The composition of a pair of (universally) submersive morphisms of schemes is (universally) submersive.
+The composition of flat morphisms is flat.
+The base change of a flat morphism is flat.
+A flat morphism locally of finite presentation is universally open.
+A flat closed immersion of finite presentation is the open immersion of an open and closed subscheme.
+The composition of two morphisms which are syntomic is syntomic.
+The base change of a morphism which is syntomic is syntomic.
+Any open immersion is syntomic.
+A syntomic morphism is locally of finite presentation.
+A syntomic morphism is flat.
+A syntomic morphism is universally open.
+The composition of two morphisms which are smooth is smooth.
+The base change of a morphism which is smooth is smooth.
+Any open immersion is smooth.
+A smooth morphism is syntomic.
+A smooth morphism is locally of finite presentation.
+A smooth morphism is flat.
+A smooth morphism is universally open.
+The composition of two morphisms which are unramified is unramified. The same holds for G-unramified morphisms.
+The base change of a morphism which is unramified is unramified. The same holds for G-unramified morphisms.
+Any open immersion is G-unramified.
+An unramified morphism is locally of finite type. A G-unramified morphism is locally of finite presentation.
+The composition of two morphisms which are etale is etale.
+The base change of a morphism which is etale is etale.
+An etale morphism is locally quasi-finite.
+Any open immersion is etale.
+An etale morphism is syntomic.
+An etale morphism is locally of finite presentation.
+An etale morphism is flat.
+An etale morphism is open.
+A morphism is etale at a point if and only if it is flat and G-unramified at that point. A morphism is etale if and only if it is flat and G-unramified.
+A base change of a quasi-projective morphism is quasi-projective.
+A H-quasi-projective morphism is quasi-projective.
+The composition of proper morphisms is proper. The same is true for universally closed morphisms.
+The base change of a proper morphism is proper. The same is true for universally closed morphisms.
+A closed immersion is proper, hence a fortiori universally closed.
+An H-projective morphism is H-quasi-projective. An H-projective morphism is projective.
+A locally projective morphism is proper.
+A composition of H-projective morphisms is H-projective.
+A base change of a H-projective morphism is H-projective.
+A base change of a (locally) projective morphism is (locally) projective.
+A projective morphism is quasi-projective.
+A finite morphism is integral. An integral morphism which is locally of finite type is finite.
+A composition of finite morphisms is finite. Same is true for integral morphisms.
+A base change of a finite morphism is finite. Same is true for integral morphisms.
+A finite morphism is quasi-finite.
+A closed immersion is finite (and a fortiori integral).
+A finite morphism is projective.
+The base change of a universal homeomorphism of schemes by any morphism of schemes is a universal homeomorphism.
+The composition of a pair of universal homeomorphisms of schemes is a universal homeomorphism.
+A seminormal scheme or ring is reduced. A fortiori the same is true for absolutely weakly normal schemes or rings.
+A composition of finite locally free morphisms is finite locally free.
+A base change of a finite locally free morphism is finite locally free.
+An immersion has universally bounded fibres.
+Assume given data (D0), (D1), and (D2') satisfying axioms (A1) -- (A8). Then we have a Weil cohomology theory.
+A scheme is very reasonable.
+An algebraic space which is Zariski locally quasi-separated is very reasonable. In particular any quasi-separated algebraic space is very reasonable.

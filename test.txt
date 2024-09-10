@@ -1,1 +1,0 @@
-A man cries on the \footnote{Hello it is a footnote!} hi $ 1 + 2 = 3 $ street.
