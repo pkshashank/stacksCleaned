@@ -7,7 +7,7 @@ Thus it can act as a corpus of theorem statements and definitions written in LaT
 
 The folder mathCleaned contains files from the folder textFiles, but all the inline math and equations have been replaced by the keyword MATH.
 Along with it, all the citations and references have been replaced with the keyword REF.
-All enumarations have been placed inside <CASES> and </CASES>, with individual \item replaced with the keyword CASE.
+All enumarations have been placed inside `<CASES>` and `</CASES>`, with individual \item replaced with the keyword CASE.
 It can act as a corpus of mathematical english.
 
 Other than that, Stanford POS tagger has been run on all the statements from mathCleaned and a file Lexicon.txt has been generated.
